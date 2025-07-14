@@ -1,44 +1,61 @@
 # PowerMenu
 
-A simple, portable Power Menu tool for Windows, written in AutoIt.
-
-This app provides easy access to common power options, all in one window.
+PowerMenu is a modern shutdown utility that combines all critical power options into one simple and accessible menu. It’s designed to be lightweight and fast on Windows systems.
 
 ---
 
-## 🚀 Features:
-- **Shutdown**
-- **Restart**
-- **Sleep**
-- **Hibernate**
-- **Lock**
-- **Log Off**
-- **Restart Explorer**
-- **Reboot to UEFI Firmware Settings**
-- **Reboot to Advanced Recovery Options**
-- **Force Shutdown & Force Restart**
-- **Boot into Safe Mode (with automatic cleanup)**
-- **Switch User**
+## 🔧 Features
+
+- Shutdown  
+- Restart  
+- Sleep *(may hibernate depending on your system’s power settings)*  
+- Lock  
+- Log Off  
+- Hibernate  
+- Force Shutdown  
+- Force Restart  
+- Restart Explorer  
+- Reboot to UEFI Firmware Settings  
+  > ⚠ Only available on systems that support UEFI.  
+- Reboot to Advanced Recovery Options  
+- Reboot to Safe Mode, with choices:
+  - Minimal (Safe Mode)
+  - Networking (Safe Mode with Networking)
+  - Command Prompt (Safe Mode with Command Prompt)
+  - Cancel  
+
+If you are already in Safe Mode, PowerMenu will detect this and ask to **exit Safe Mode** via reboot and BCDEdit reset.  
+> There is **no shortcut to disable this Safe Mode cleanup**.
 
 ---
 
-## ⚙️ Usage:
-- ✅ No installation needed — just run the app.
-- ✅ Runs with Administrator rights automatically (for options that require it).
-- ✅ Works on Windows 10 & Windows 11.
+## ⌨️ Shortcuts
+
+- **Ctrl + Shift + C** — Toggle confirmation prompts on or off
+
+By default, PowerMenu shows confirmation dialogs for critical actions. This shortcut allows advanced users to enable or disable them quickly.
 
 ---
 
-## 📥 Download:
-[![Download PowerMenu](https://img.shields.io/badge/Download-PowerMenu-blue?logo=github)](https://github.com/Hazemtalaat1510-tech/PowerMenu/releases)
+## ⚠ System Requirements
+
+- Windows 10 or Windows 11  
+- UEFI support for Firmware Settings  
 
 ---
 
-## 👨‍💻 Developer:
-Made by [Hazem Mohamed](https://github.com/Hazemtalaat1510-tech)
+## 📦 Download
 
-GitHub Repo: [PowerMenu](https://github.com/Hazemtalaat1510-tech/PowerMenu)
+[![Download PowerMenu](https://img.shields.io/badge/GitHub-Download_PowerMenu-blue?logo=github)](https://github.com/HazemTech365/PowerMenu/releases/)
+
+Alternatively, you can clone this repository using:
+
+```bash
+git clone https://github.com/HazemTech365/PowerMenu.git
+```
 
 ---
 
-Thanks for using PowerMenu! 💻
+## 👤 Maintained by
+
+**[HazemTech365](https://github.com/HazemTech365)**
