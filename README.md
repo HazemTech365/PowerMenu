@@ -86,6 +86,11 @@ Or clone this repository manually:
 git clone https://github.com/HazemTech365/PowerMenu.git
 ```
 
+After cloning or visiting the [Releases page](https://github.com/HazemTech365/PowerMenu/releases), just:
+
+> 🖱️ Download either `PowerMenu_x64.exe` *(for 64-bit)* or `PowerMenu_x86.exe` *(for 32-bit)*, then **double-click to launch.**  
+> ✅ Click “Yes” if prompted — and your PowerMenu will open instantly, no installation required.
+
 ---
 
 ## 🪪 License
