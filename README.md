@@ -31,11 +31,15 @@ Made with 💻 by [HazemTech365](https://github.com/HazemTech365)
 
 ## 🖼 Screenshots
 
-**Main Menu**  
-![Main Menu](https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Main.png?raw=true)
-
-**Confirmation Prompt**  
-![Confirmation Prompt](https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Confirmaton.png?raw=true)
+<p align="center">
+  <img src="https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Main.png?raw=true" width="400" alt="Main Menu Screenshot">
+  <br>
+  <sub><i>Main Menu</i></sub>
+  <br><br>
+  <img src="https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Confirmaton.png?raw=true" width="400" alt="Confirmation Prompt Screenshot">
+  <br>
+  <sub><i>Confirmation Prompt</i></sub>
+</p>
 
 ---
 
