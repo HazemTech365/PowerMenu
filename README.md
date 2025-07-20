@@ -77,30 +77,40 @@ Made with 💻 by [HazemTech365](https://github.com/HazemTech365)
 ---
 
 ## 📦 Download  
-  
+
 [![Download PowerMenu](https://img.shields.io/badge/GitHub-Download_PowerMenu-blue?logo=github)](https://github.com/HazemTech365/PowerMenu/releases)  
-  
+
 Or clone this repository manually:  
-  
-```bash  
-git clone https://github.com/HazemTech365/PowerMenu.git  
-```  
-  
-After cloning or visiting the [Releases page](https://github.com/HazemTech365/PowerMenu/releases), just:  
-  
+
+```bash
+git clone https://github.com/HazemTech365/PowerMenu.git
+```
+
+After cloning or visiting the [Releases page](https://github.com/HazemTech365/PowerMenu/releases), just:
+
 > 🖱️ Download either `PowerMenu_x64.exe` *(for 64-bit)* or `PowerMenu_x86.exe` *(for 32-bit)*, then **double-click to launch.**    
 > ✅ Click “Yes” if prompted — and your PowerMenu will open instantly, no installation required.  
-  
+
+---
+
+## 🧾 Latest Versions  
+
+[![Latest Version](https://img.shields.io/github/v/release/HazemTech365/PowerMenu?label=Latest%20Version&color=2ea44f&logo=github)](https://github.com/HazemTech365/PowerMenu/releases/latest)  
+[![Latest Pre-release](https://img.shields.io/github/v/release/HazemTech365/PowerMenu?include_prereleases&label=Latest%20Pre-release&color=2ea44f&logo=github)](https://github.com/HazemTech365/PowerMenu/releases)
+
+Want to know what’s new? These green badges above automatically reflect the latest **stable** and **pre-release** versions from GitHub.  
+Click them to see changelogs, new features, and past versions! 🚀
+
 ---
 
 ## 🪪 License  
   
 This project is licensed under the **MIT License**.  
   
-```  
+```
 MIT License  
   
-Copyright (c) 2025 Hazem Mohamed   
+Copyright (c) 2025 Hazem Mohamed  
   
 Permission is hereby granted, free of charge, to any person obtaining a copy  
 of this software and associated documentation files (the "Software"), to deal  
@@ -147,14 +157,14 @@ Thanks for checking it out. And remember:
 
 ## 🌟 Support This Project
 
-[![Stars](https://img.shields.io/github/stars/HazemTech365/PowerMenu?style=flat&logo=github&label=Stars&color=007ec6)](https://github.com/HazemTech365/PowerMenu/stargazers)
+[![Stars](https://img.shields.io/github/stars/HazemTech365/PowerMenu?style=flat&logo=github&label=Stars&color=007ec6)](https://github.com/HazemTech365/PowerMenu/stargazers)  
 [![Forks](https://img.shields.io/github/forks/HazemTech365/PowerMenu?style=flat&logo=github&label=Forks&color=007ec6)](https://github.com/HazemTech365/PowerMenu/network/members)
 
 If you enjoy using PowerMenu or find it helpful:
 
-- Give it a **⭐ star** to show support  
-- Click **🍴 fork** to start contributing or customizing  
-- Spread the word and help others stay in control, too!
+- 🌟 Give it a **star** to show your support  
+- 🍴 Fork it to start contributing or customizing  
+- 📣 Share it with others — help more people stay in control
 
 PowerMenu is proudly open-source and powered by the community.  
 Let’s make it even better — together 💪
