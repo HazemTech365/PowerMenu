@@ -24,8 +24,7 @@ Made with 💻 by [HazemTech365](https://github.com/HazemTech365)
   - Command Prompt (Safe Mode with Command Prompt)  
   - Exit Safe Mode *(auto-detected if already in Safe Mode)*  
   
-> ⚠️ If PowerMenu detects Safe Mode, it **will require a reboot** to exit it.    
-> There is no shortcut to bypass Safe Mode cleanup.  
+> ⚠️ If PowerMenu detects Safe Mode, it **will require a reboot** to exit it.  
   
 ---
 
@@ -39,7 +38,7 @@ Made with 💻 by [HazemTech365](https://github.com/HazemTech365)
   
 ---
 
-## ⌨️ Keyboard Shortcut  
+## ⌨️ Keyboard Shortcuts  
   
 | Shortcut            | Action                             |  
 |---------------------|-------------------------------------|  
@@ -47,7 +46,7 @@ Made with 💻 by [HazemTech365](https://github.com/HazemTech365)
   
 ---
 
-## ⚙ Command Table  
+## ⚙️ Command Table  
   
 | Button                   | Command                                                    |  
 |--------------------------|-------------------------------------------------------------|  
@@ -95,6 +94,7 @@ After cloning or visiting the [Releases page](https://github.com/HazemTech365/Po
 
 ## 🧾 Latest Versions  
 
+The current **latest versions** are: 
 [![Latest Version](https://img.shields.io/github/v/release/HazemTech365/PowerMenu?label=Latest%20Version&color=2ea44f&logo=github)](https://github.com/HazemTech365/PowerMenu/releases/latest)  
 [![Latest Pre-release](https://img.shields.io/github/v/release/HazemTech365/PowerMenu?include_prereleases&label=Latest%20Pre-release&color=2ea44f&logo=github)](https://github.com/HazemTech365/PowerMenu/releases)
 
@@ -157,6 +157,7 @@ Thanks for checking it out. And remember:
 
 ## 🌟 Support This Project
 
+I currently have
 [![Stars](https://img.shields.io/github/stars/HazemTech365/PowerMenu?style=flat&logo=github&label=Stars&color=007ec6)](https://github.com/HazemTech365/PowerMenu/stargazers)  
 [![Forks](https://img.shields.io/github/forks/HazemTech365/PowerMenu?style=flat&logo=github&label=Forks&color=007ec6)](https://github.com/HazemTech365/PowerMenu/network/members)
 
