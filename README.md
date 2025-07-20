@@ -46,7 +46,7 @@ Made with 💻 by [HazemTech365](https://github.com/HazemTech365)
   
 ---
 
-## ⚙️ Command Table  
+## 💻 Command Table  
   
 | Button                   | Command                                                    |  
 |--------------------------|-------------------------------------------------------------|  
