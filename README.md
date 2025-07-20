@@ -4,12 +4,12 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
   
 Made with 💻 by [HazemTech365](https://github.com/HazemTech365)  
   
----  
-  
+---
+
 ![PowerMenu Screenshot](https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Main.png?raw=true)  
   
----  
-  
+---
+
 ## 🚀 Features  
   
 - 🔌 Shutdown, Restart, Sleep, Hibernate, Log Off  
@@ -27,8 +27,8 @@ Made with 💻 by [HazemTech365](https://github.com/HazemTech365)
 > ⚠️ If PowerMenu detects Safe Mode, it **will require a reboot** to exit it.    
 > There is no shortcut to bypass Safe Mode cleanup.  
   
----  
-  
+---
+
 ## 🖼 Screenshots  
   
 **Main Menu**    
@@ -37,16 +37,16 @@ Made with 💻 by [HazemTech365](https://github.com/HazemTech365)
 **Confirmation Prompt**    
 ![Confirmation Prompt](https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Confirmaton.png?raw=true)  
   
----  
-  
+---
+
 ## ⌨️ Keyboard Shortcut  
   
 | Shortcut            | Action                             |  
 |---------------------|-------------------------------------|  
 | `Ctrl + Shift + C`  | Toggle confirmation prompts on/off |  
   
----  
-  
+---
+
 ## ⚙ Command Table  
   
 | Button                   | Command                                                    |  
@@ -67,15 +67,15 @@ Made with 💻 by [HazemTech365](https://github.com/HazemTech365)
 | Safe Mode: Command Prompt| `bcdedit /set {current} safebootalternateshell yes`        |  
 | Exit Safe Mode           | `bcdedit /deletevalue {current} safeboot`                  |  
   
----  
-  
+---
+
 ## 💻 System Requirements  
   
 - Windows 10 or Windows 11    
 - UEFI support *(required for firmware settings reboot)*  
   
----  
-  
+---
+
 ## 📦 Download  
   
 [![Download PowerMenu](https://img.shields.io/badge/GitHub-Download_PowerMenu-blue?logo=github)](https://github.com/HazemTech365/PowerMenu/releases)  
@@ -91,8 +91,8 @@ After cloning or visiting the [Releases page](https://github.com/HazemTech365/Po
 > 🖱️ Download either `PowerMenu_x64.exe` *(for 64-bit)* or `PowerMenu_x86.exe` *(for 32-bit)*, then **double-click to launch.**    
 > ✅ Click “Yes” if prompted — and your PowerMenu will open instantly, no installation required.  
   
----  
-  
+---
+
 ## 🪪 License  
   
 This project is licensed under the **MIT License**.  
@@ -121,8 +121,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.  
 ```  
   
----  
-  
+---
+
 ## 👤 Author  
   
 Developed and maintained by:  
@@ -130,8 +130,8 @@ Developed and maintained by:
 **HazemTech365**    
 🔗 [GitHub Profile](https://github.com/HazemTech365)  
   
----  
-  
+---
+
 ## 🏁 Final Words  
   
 PowerMenu started as a small idea, but it's made with love, care, and real tech spirit.    
@@ -142,3 +142,19 @@ Whether you're a power user or someone who just wants control — this tool is f
 Thanks for checking it out. And remember:  
   
 > **Stay powered, stay in control. PowerMenu.**
+
+---
+
+## 🌟 Support This Project
+
+[![Stars](https://img.shields.io/github/stars/HazemTech365/PowerMenu?style=flat&logo=github&label=Stars&color=007ec6)](https://github.com/HazemTech365/PowerMenu/stargazers)
+[![Forks](https://img.shields.io/github/forks/HazemTech365/PowerMenu?style=flat&logo=github&label=Forks&color=007ec6)](https://github.com/HazemTech365/PowerMenu/network/members)
+
+If you enjoy using PowerMenu or find it helpful:
+
+- Give it a **⭐ star** to show support  
+- Click **🍴 fork** to start contributing or customizing  
+- Spread the word and help others stay in control, too!
+
+PowerMenu is proudly open-source and powered by the community.  
+Let’s make it even better — together 💪
