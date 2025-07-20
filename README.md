@@ -34,7 +34,7 @@ Made with 💻 by [HazemTech365](https://github.com/HazemTech365)
 ![Main Menu](https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Main.png?raw=true)  
   
 **Confirmation Prompt**    
-![Confirmation Prompt](https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Confirmaton.png?raw=true)  
+![Confirmation Prompt](https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Confirmation.png?raw=true)  
   
 ---
 
