@@ -14,7 +14,7 @@ Made with 💻 by [HazemTech365](https://github.com/HazemTech365)
 
 - [🚀 Features](#-features)  
 - [🖼 Screenshots](#-screenshots)  
-- [⌨️ Keyboard Shortcuts](#-keyboard shortcuts)  
+- [⌨️ Keyboard Shortcuts](#-keyboard-shortcuts)  
 - [💻 Command Table](#-command-table)  
 - [💻 System Requirements](#-system-requirements)  
 - [📦 Download](#-download)  
