@@ -161,19 +161,6 @@ Developed and maintained by:
 
 ---
 
-## 🏁 Final Words
-
-PowerMenu started as a small idea, but it's made with love, care, and real tech spirit.  
-Whether you're a power user or someone who just wants control — this tool is for you.
-
-🧠 Share it, fork it, improve it — it’s open to everyone.
-
-Thanks for checking it out. And remember:
-
-> **Stay powered, stay in control. PowerMenu.**
-
----
-
 ## 🌟 Support This Project
 
 [![Stars](https://img.shields.io/github/stars/HazemTech365/PowerMenu?style=flat&logo=github&label=Stars&color=007ec6)](https://github.com/HazemTech365/PowerMenu/stargazers)  
@@ -188,4 +175,15 @@ If you enjoy using PowerMenu or find it helpful:
 PowerMenu is proudly open-source and powered by the community.  
 Let’s make it even better — together 💪
 
-> **Note:** My computer is unavailable at the moment so there will be **no updates** today, thank you.
+---
+
+## 🏁 Final Words
+
+PowerMenu started as a small idea, but it's made with love, care, and real tech spirit.  
+Whether you're a power user or someone who just wants control — this tool is for you.
+
+🧠 Share it, fork it, improve it — it’s open to everyone.
+
+Thanks for checking it out. And remember:
+
+> **Stay powered, stay in control. PowerMenu.**
