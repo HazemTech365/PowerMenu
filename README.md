@@ -171,4 +171,5 @@ If you enjoy using PowerMenu or find it helpful:
 
 PowerMenu is proudly open-source and powered by the community.  
 Let’s make it even better — together 💪
-**Note: ** Mom took my computer so there will be **no updates** today, thank you.
+
+**Note:** Mom took my computer so there will be **no updates** today, thank you.
