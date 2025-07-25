@@ -86,7 +86,7 @@ Made with 💻 by [HazemTech365](https://github.com/HazemTech365)
 
 ## 💻 System Requirements
 
-- Windows 10 or Windows 11  
+- Windows 11, 10 and 8 
 - UEFI support *(required for firmware settings reboot)*
 
 ---
@@ -105,6 +105,13 @@ After cloning or visiting the [Releases page](https://github.com/HazemTech365/Po
 
 > 🖱️ Download either `PowerMenu_x64.exe` *(for 64-bit)* or `PowerMenu_x86.exe` *(for 32-bit)*, then **double-click to launch.**  
 > ✅ Click “Yes” if prompted — and your PowerMenu will open instantly, no installation required.
+
+---
+
+## 🛠 Troubleshooting
+
+- If you don't see Safe Mode options taking effect, try running PowerMenu as **Administrator**.
+- For systems with Fast Startup enabled, certain shutdown modes may behave differently.
 
 ---
 
