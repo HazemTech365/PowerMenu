@@ -1,5 +1,7 @@
 # PowerMenu 
 
+### Your all-in-one reboot, shutdown, and Safe Mode launcher for Windows ⚡
+
 ![platform](https://img.shields.io/badge/Platform-Windows-blue?logo=windows)
 ![license](https://img.shields.io/github/license/HazemTech365/PowerMenu)
 
