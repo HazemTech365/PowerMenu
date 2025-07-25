@@ -207,6 +207,8 @@ If you'd like to help improve PowerMenu:
 - Make your changes
 - Submit a pull request
 
+> 💡 Have feedback, found a bug, or got an idea? [Open an issue](https://github.com/HazemTech365/PowerMenu/issues/new) and let’s make it better together!
+
 Together, we can make PowerMenu even more powerful 💪
 
 ---
@@ -236,4 +238,4 @@ Whether you're a power user or someone who just wants control — this tool is f
 
 Thanks for checking it out. And remember:
 
-> **Stay powered, stay in control. PowerMenu.**
+> 💡 **Stay powered, stay in control. PowerMenu.**
