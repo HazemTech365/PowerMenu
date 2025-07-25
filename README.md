@@ -110,8 +110,20 @@ After cloning or visiting the [Releases page](https://github.com/HazemTech365/Po
 
 ## 🛠 Troubleshooting
 
-- If you don't see Safe Mode options taking effect, try running PowerMenu as **Administrator**.
-- For systems with Fast Startup enabled, certain shutdown modes may behave differently.
+Having issues? Here are some quick fixes:
+
+- ⚙️ **Safe Mode options not working?**  
+  > Make sure you're running PowerMenu with **Administrator privileges** to allow boot-level changes like entering Safe Mode.  
+  > Right-click → “Run as administrator”.
+
+- ⚡ **Shutdown or Restart doesn’t happen right away?**  
+  > If **Fast Startup** is enabled, Windows might delay or override shutdown commands.  
+  > Disable it via *Control Panel → Power Options → Choose what the power buttons do → Change settings that are currently unavailable → Uncheck "Turn on fast startup"*.
+
+- 🌀 **Stuck in Safe Mode after reboot?**  
+  > No worries — **PowerMenu detects when you're in Safe Mode** and offers to automatically exit it as soon as you launch the app.  
+  > Just open PowerMenu again while in Safe Mode and follow the prompt — it handles the rest for you.
+  > If that doesn't work, then open command prompt as admin and type in this command: `bcdedit /deletevalue {current} safeboot`
 
 ---
 
