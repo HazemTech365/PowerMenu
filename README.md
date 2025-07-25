@@ -216,8 +216,15 @@ Together, we can make PowerMenu even more powerful 💪
 
 ## 🌟 Support This Project
 
-<img src="https://img.shields.io/github/stars/HazemTech365/PowerMenu?style=flat&logo=star&logoColor=white&label=Stars&color=ffcc00" alt="GitHub Stars">
-<img src="https://img.shields.io/github/forks/HazemTech365/PowerMenu?style=flat&logo=git&logoColor=white&label=Forks&color=gray" alt="GitHub Forks">
+<a href="https://github.com/HazemTech365/PowerMenu/stargazers">
+  <img src="https://img.shields.io/badge/Stars-1-yellow?style=for-the-badge&logo=star&logoColor=white" alt="Stars">
+</a>
+<a href="https://github.com/HazemTech365/PowerMenu/network/members">
+  <img src="https://img.shields.io/badge/Forks-0-blue?style=for-the-badge&logo=git&logoColor=white" alt="Forks">
+</a>
+<a href="https://github.com/HazemTech365/PowerMenu/issues">
+  <img src="https://img.shields.io/github/issues/HazemTech365/PowerMenu?style=for-the-badge&color=orange" alt="Issues">
+</a>
 
 If you enjoy using PowerMenu or find it helpful:
 
