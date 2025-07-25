@@ -4,6 +4,7 @@
 
 ![platform](https://img.shields.io/badge/Platform-Windows-blue?logo=windows)
 ![license](https://img.shields.io/github/license/HazemTech365/PowerMenu)
+![Downloads](https://img.shields.io/github/downloads/HazemTech365/PowerMenu/total?logo=github&color=blue)
 
 PowerMenu is a modern and lightweight shutdown utility that puts **every essential power control** at your fingertips. Built for Windows, it delivers powerful options in one clean interface — whether you're shutting down, restarting, hibernating, or jumping into Safe Mode.  
 
