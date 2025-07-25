@@ -7,7 +7,11 @@
 
 PowerMenu is a modern and lightweight shutdown utility that puts **every essential power control** at your fingertips. Built for Windows, it delivers powerful options in one clean interface — whether you're shutting down, restarting, hibernating, or jumping into Safe Mode.  
 
-Made with 💻 by [HazemTech365](https://github.com/HazemTech365)
+---
+
+<p align="center">
+  Made with 💻 by <a href="https://github.com/HazemTech365">HazemTech365</a>
+</p>
 
 ---
 
@@ -184,6 +188,19 @@ Developed and maintained by:
 
 **HazemTech365**  
 🔗 [GitHub Profile](https://github.com/HazemTech365)
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and pull requests are welcome!
+
+If you'd like to help improve PowerMenu:
+- Fork this repo
+- Make your changes
+- Submit a pull request
+
+Together, we can make PowerMenu even more powerful 💪
 
 ---
 
