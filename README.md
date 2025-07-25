@@ -76,6 +76,8 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 
 ## 💻 Command Table
 
+> ℹ️ You don't have to use these manually — PowerMenu runs them for you behind the scenes!
+
 | Button                   | Command                                                    |
 |--------------------------|-------------------------------------------------------------|
 | Shutdown                 | `shutdown /s /t 0`                                          |
