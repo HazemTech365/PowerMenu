@@ -64,6 +64,8 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 
 ---
 
+<a name="keyboard-shortcuts"></a>
+
 ## ⌨️ Keyboard Shortcuts
 
 | Shortcut            | Action                             |
