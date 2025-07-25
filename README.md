@@ -2,11 +2,13 @@
 
 ### Your all-in-one reboot, shutdown, and Safe Mode launcher for Windows ⚡
 
-![platform](https://img.shields.io/badge/Platform-Windows-blue?logo=windows)
-<br>
-![License](https://img.shields.io/github/license/HazemTech365/PowerMenu?color=007ec6&label=License&style=flat)
-<br>
-![Download](https://img.shields.io/github/downloads/HazemTech365/PowerMenu/total?logo=github&color=007ec6&label=Downloads&style=flat)
+<p align="left">
+  <img src="https://img.shields.io/badge/Platform-Windows-blue?logo=windows">
+  <br>
+  <img src="https://img.shields.io/github/license/HazemTech365/PowerMenu?label=License&color=007ec6&style=flat">
+  <br>
+  <img src="https://img.shields.io/github/downloads/HazemTech365/PowerMenu/total?logo=github&label=Downloads&color=007ec6&style=flat">
+</p>
 
 PowerMenu is a modern and lightweight shutdown utility that puts **every essential power control** at your fingertips. Built for Windows, it delivers powerful options in one clean interface — whether you're shutting down, restarting, hibernating, or jumping into Safe Mode.  
 
