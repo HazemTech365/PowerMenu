@@ -18,7 +18,6 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 ![PowerMenu Screenshot](https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Main.png?raw=true)
 
 ---
-
 ## 📚 Table of Contents
 
 - [🚀 Features](#-features)  
@@ -27,11 +26,13 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 - [💻 Command Table](#-command-table)  
 - [💻 System Requirements](#-system-requirements)  
 - [📦 Download](#-download)  
+- [🛠 Troubleshooting](#-troubleshooting)  
 - [🧾 Latest Versions](#-latest-versions)  
 - [🪪 License](#-license)  
 - [👤 Author](#-author)  
-- [🏁 Final Words](#-final-words)  
-- [🌟 Support This Project](#-support-this-project)
+- [🤝 Contributing](#-contributing)  
+- [🌟 Support This Project](#-support-this-project)  
+- [🏁 Final Words](#-final-words)
 
 ---
 
