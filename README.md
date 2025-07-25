@@ -216,11 +216,17 @@ Together, we can make PowerMenu even more powerful 💪
 
 ## 🌟 Support This Project
 
-[![Stars](https://img.shields.io/github/stars/HazemTech365/PowerMenu?style=flat&logo=github&label=Stars&color=007ec6)](https://github.com/HazemTech365/PowerMenu/stargazers)
-
-[![Forks](https://img.shields.io/github/forks/HazemTech365/PowerMenu?style=flat&logo=github&label=Forks&color=007ec6)](https://github.com/HazemTech365/PowerMenu/network/members)
-
-[![Issues](https://img.shields.io/github/issues/HazemTech365/PowerMenu?style=flat&logo=github&label=Issues&color=007ec6)](https://github.com/HazemTech365/PowerMenu/issues)
+<p>
+  <a href="https://github.com/HazemTech365/PowerMenu/stargazers">
+    <img src="https://img.shields.io/github/stars/HazemTech365/PowerMenu?style=flat&logo=github&label=Stars&color=007ec6">
+  </a><br>
+  <a href="https://github.com/HazemTech365/PowerMenu/network/members">
+    <img src="https://img.shields.io/github/forks/HazemTech365/PowerMenu?style=flat&logo=github&label=Forks&color=007ec6">
+  </a><br>
+  <a href="https://github.com/HazemTech365/PowerMenu/issues">
+    <img src="https://img.shields.io/github/issues/HazemTech365/PowerMenu?style=flat&logo=github&label=Issues&color=007ec6">
+  </a>
+</p>
 
 If you enjoy using PowerMenu or find it helpful:
 
