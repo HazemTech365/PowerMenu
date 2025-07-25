@@ -2,7 +2,7 @@
 
 ### Your all-in-one reboot, shutdown, and Safe Mode launcher for Windows ⚡
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Platform-Windows-blue?logo=windows">
   <br>
   <img src="https://img.shields.io/github/license/HazemTech365/PowerMenu?label=License&color=007ec6&style=flat">
