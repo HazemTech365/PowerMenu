@@ -252,4 +252,4 @@ Whether you're a power user or someone who just wants control — this tool is f
 
 Thanks for checking it out. And remember:
 
-> 🔥 <p align="center"><strong>🔥 Stay powered, stay in control. PowerMenu. 🔥</strong></p>
+> <p align="center"><strong>🔥 Stay powered, stay in control. PowerMenu. 🔥</strong></p>
