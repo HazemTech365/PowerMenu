@@ -120,14 +120,15 @@ Having issues? Here are some quick fixes:
   > Right-click → “Run as administrator”.
 
 - ⚡ **Shutdown or Restart doesn’t happen right away?**  
-  > If **Fast Startup** is enabled, Windows might delay or override shutdown commands.  
-  > Disable it via *Control Panel → Power Options → Choose what the power buttons do → Change settings that are currently unavailable → Uncheck "Turn on fast startup"*.
+> If **Fast Startup** is enabled, Windows might delay or override shutdown commands.  
+> Disable it via *Control Panel → Power Options → Choose what the power buttons do → Change settings that are currently unavailable → Uncheck "Turn on fast startup"*.
 
 - 🌀 **Stuck in Safe Mode after reboot?**  
-  > No worries — **PowerMenu detects when you're in Safe Mode** and offers to automatically exit it as soon as you launch the app.  
-  > Just open PowerMenu again while in Safe Mode and follow the prompt — it handles the rest for you.
-  > If that doesn't work, open Command Prompt as Administrator and run this command:
-`bcdedit /deletevalue {current} safeboot`.
+> No worries — **PowerMenu detects when you're in Safe Mode** and offers to automatically exit it as soon as you launch the app.  
+> Just open PowerMenu again while in Safe Mode and follow the prompt — it handles the rest for you.  
+>  
+> 🛠️ **Still stuck?** Open Command Prompt as Administrator and run:  
+> `bcdedit /deletevalue {current} safeboot`
 
 ---
 
