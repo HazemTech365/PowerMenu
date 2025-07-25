@@ -154,10 +154,8 @@ Having issues? Here are some quick fixes:
 
 The current **latest versions** are:
 
-<!-- Latest Version -->
 [![Latest version](https://img.shields.io/github/v/release/HazemTech365/PowerMenu?label=Latest%20version&logo=github&color=007ec6&style=flat)](https://github.com/HazemTech365/PowerMenu/releases/latest)
 <br>
-<!-- Latest Pre-release -->
 [![Latest pre-release](https://img.shields.io/github/v/release/HazemTech365/PowerMenu?include_prereleases&label=Latest%20pre-release&logo=github&color=007ec6&style=flat)](https://github.com/HazemTech365/PowerMenu/releases)
 
 > ℹ️ If no pre-release has been published yet, the badge may appear empty or display the latest stable version.
