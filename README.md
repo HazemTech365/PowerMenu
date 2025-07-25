@@ -133,7 +133,8 @@ Having issues? Here are some quick fixes:
 > No worries — **PowerMenu detects when you're in Safe Mode** and offers to automatically exit it as soon as you launch the app.  
 > Just open PowerMenu again while in Safe Mode and follow the prompt — it handles the rest for you.  
 >  
-> 🛠️ **Still stuck?** Open Command Prompt as Administrator and run:  
+> 🛠️ **Still stuck?**  
+> Open **Command Prompt as Administrator** and run this command to manually exit Safe Mode:  
 > `bcdedit /deletevalue {current} safeboot`
 
 ---
