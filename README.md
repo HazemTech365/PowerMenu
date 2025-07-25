@@ -1,4 +1,7 @@
-# PowerMenu  
+# PowerMenu 
+
+![platform](https://img.shields.io/badge/Platform-Windows-blue?logo=windows)
+![license](https://img.shields.io/github/license/HazemTech365/PowerMenu)
 
 PowerMenu is a modern and lightweight shutdown utility that puts **every essential power control** at your fingertips. Built for Windows, it delivers powerful options in one clean interface — whether you're shutting down, restarting, hibernating, or jumping into Safe Mode.  
 
@@ -123,7 +126,8 @@ Having issues? Here are some quick fixes:
 - 🌀 **Stuck in Safe Mode after reboot?**  
   > No worries — **PowerMenu detects when you're in Safe Mode** and offers to automatically exit it as soon as you launch the app.  
   > Just open PowerMenu again while in Safe Mode and follow the prompt — it handles the rest for you.
-  > If that doesn't work, then open command prompt as admin and type in this command: `bcdedit /deletevalue {current} safeboot`
+  > If that doesn't work, open Command Prompt as Administrator and run this command:
+`bcdedit /deletevalue {current} safeboot`.
 
 ---
 
