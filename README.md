@@ -9,7 +9,6 @@
   <br>
   <img src="https://img.shields.io/github/downloads/HazemTech365/PowerMenu/total?label=Downloads&logo=github&color=007ec6&style=flat">
 </p>
-<img src="https://img.shields.io/badge/language-AutoIt-blue" alt="Language: AutoIt">
 
 
 PowerMenu is a modern and lightweight shutdown utility that puts **every essential power control** at your fingertips. Built for Windows, it delivers powerful options in one clean interface — whether you're shutting down, restarting, hibernating, or jumping into Safe Mode.  
