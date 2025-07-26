@@ -2,13 +2,10 @@
 
 ### Your all-in-one reboot, shutdown, and Safe Mode launcher for Windows ⚡
 
-<p align="left">
+<p align="left" style="display: flex; flex-direction: column; gap: 4px; align-items: start;">
   <img src="https://img.shields.io/badge/Platform-Windows-007ec6?logo=windows&logoColor=white&style=flat">
-  <br>
   <img src="https://img.shields.io/badge/Language-AutoIt-007ec6?style=flat" alt="Language: AutoIt">
-  <br>
   <img src="https://img.shields.io/github/license/HazemTech365/PowerMenu?label=License&color=007ec6&style=flat">
-  <br>
   <img src="https://img.shields.io/github/downloads/HazemTech365/PowerMenu/total?label=Downloads&logo=github&color=007ec6&style=flat">
 </p>
 
