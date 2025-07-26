@@ -170,7 +170,7 @@ The current **latest versions** are:
        onmouseout="this.style.transform='scale(1)';" />
 </a>
 
-> ℹ️ *If no beta version is published yet, the badge might show the latest stable version instead.*
+> ℹ️ _*If no beta version is published yet, the badge might show the latest stable version instead.*_
 
 Click the badges to view changelogs, new features, or grab an older version! 🚀
 
