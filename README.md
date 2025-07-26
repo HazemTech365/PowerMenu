@@ -155,14 +155,14 @@ Having issues? Here are some quick fixes:
 The current **latest versions** are:
 
 <a href="https://github.com/HazemTech365/PowerMenu/releases/latest">
-  <img src="https://img.shields.io/github/v/release/HazemTech365/PowerMenu?label=Latest%20stable%20version&logo=github&color=007ec6&style=flat">
+  <img src="https://img.shields.io/github/v/release/HazemTech365/PowerMenu?label=Latest%20stable%20version&logo=github&color=007ec6&style=flat" alt="Latest stable version badge">
 </a>
-<br>
+<br><br>
 <a href="https://github.com/HazemTech365/PowerMenu/releases">
-  <img src="https://img.shields.io/github/v/release/HazemTech365/PowerMenu?include_prereleases&label=Latest%20beta%20version&logo=github&color=007ec6&style=flat">
+  <img src="https://img.shields.io/github/v/release/HazemTech365/PowerMenu?include_prereleases&label=Latest%20beta%20version&logo=github&color=007ec6&style=flat" alt="Latest beta version badge">
 </a>
 
-> ℹ️ If no beta version has been published yet, the badge may appear empty or display the latest stable version.
+> ℹ️ *If no beta version has been published yet, the badge might look empty or show the latest stable version instead.*
 
 Click the badges to view changelogs, new features, or grab an older version! 🚀
 
