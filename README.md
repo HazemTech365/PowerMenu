@@ -154,12 +154,20 @@ Having issues? Here are some quick fixes:
 
 The current **latest versions** are:
 
-<a href="https://github.com/HazemTech365/PowerMenu/releases/latest">
-  <img src="https://img.shields.io/github/v/release/HazemTech365/PowerMenu?label=Latest%20stable%20version&logo=github&color=007ec6&style=flat" alt="Latest stable version badge">
+<a href="https://github.com/HazemTech365/PowerMenu/releases/latest" style="text-decoration:none;">
+  <img src="https://img.shields.io/github/v/release/HazemTech365/PowerMenu?label=Latest%20stable%20version&logo=github&color=007ec6&style=flat" 
+       alt="Latest stable version badge"
+       style="transition: transform 0.3s ease; cursor:pointer;"
+       onmouseover="this.style.transform='scale(1.05)';"
+       onmouseout="this.style.transform='scale(1)';" />
 </a>
 <br>
-<a href="https://github.com/HazemTech365/PowerMenu/releases">
-  <img src="https://img.shields.io/github/v/release/HazemTech365/PowerMenu?include_prereleases&label=Latest%20beta%20version&logo=github&color=007ec6&style=flat" alt="Latest beta version badge">
+<a href="https://github.com/HazemTech365/PowerMenu/releases" style="text-decoration:none;">
+  <img src="https://img.shields.io/github/v/release/HazemTech365/PowerMenu?include_prereleases&label=Latest%20beta%20version&logo=github&color=007ec6&style=flat"
+       alt="Latest beta version badge"
+       style="transition: transform 0.3s ease; cursor:pointer;"
+       onmouseover="this.style.transform='scale(1.05)';"
+       onmouseout="this.style.transform='scale(1)';" />
 </a>
 
 > ℹ️ *If no beta version is published yet, the badge might show the latest stable version instead.*
