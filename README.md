@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/Language-AutoIt-007ec6?style=flat" alt="Language: AutoIt">
   <img src="https://img.shields.io/github/license/HazemTech365/PowerMenu?label=License&color=007ec6&style=flat">
   <img src="https://img.shields.io/github/downloads/HazemTech365/PowerMenu/total?label=Downloads&logo=github&color=007ec6&style=flat">
+  <img src="https://img.shields.io/github/repo-size/HazemTech365/PowerMenu?label=Repo%20Size&color=007ec6&style=flat">
 </p>
-
 
 PowerMenu is a modern and lightweight shutdown utility that puts **every essential power control** at your fingertips. Built for Windows, it delivers powerful options in one clean interface — whether you're shutting down, restarting, hibernating, or jumping into Safe Mode.  
 
@@ -23,6 +23,7 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 ![PowerMenu Screenshot](https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Main.png?raw=true)
 
 ---
+
 ## 📚 Table of Contents
 
 - [🚀 Features](#-features)  
@@ -42,6 +43,7 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 ---
 
 ## 🚀 Features  
+![Features Badge](https://img.shields.io/badge/Modes-Safe_Mode_&_Advanced_Recovery-007ec6?style=flat)
 
 - 🔌 Shutdown, Restart, Sleep, Hibernate, Log Off  
 - 🔐 Lock Screen  
@@ -59,7 +61,8 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 
 ---
 
-## 🖼 Screenshots
+## 🖼 Screenshots  
+![Screenshot Badge](https://img.shields.io/badge/UI-Simple_&_Clean-007ec6?style=flat)
 
 **Main Menu**  
 ![Main Menu](https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Main.png?raw=true)  
@@ -71,7 +74,8 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 
 <a name="keyboard-shortcuts"></a>
 
-## ⌨️ Keyboard Shortcuts
+## ⌨️ Keyboard Shortcuts  
+![Shortcuts Badge](https://img.shields.io/badge/Shortcut-Ctrl+Shift+C-007ec6?style=flat)
 
 | Shortcut            | Action                             |
 |---------------------|-------------------------------------|
@@ -79,7 +83,8 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 
 ---
 
-## 💻 Command Table
+## 💻 Command Table  
+![Command Badge](https://img.shields.io/badge/Execution-Safe_&_Admin_Commands-007ec6?style=flat)
 
 > ℹ️ You don't have to use these manually — PowerMenu runs them for you behind the scenes!
 
@@ -103,14 +108,16 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 
 ---
 
-## 💻 System Requirements
+## 💻 System Requirements  
+![OS Badge](https://img.shields.io/badge/Supported_OS-Windows_8_–_11-007ec6?style=flat)
 
-- Windows 11, 10 and 8 
-- UEFI support *(required for firmware settings reboot)*
+- Windows 11, 10, and 8  
+- UEFI support *(required for firmware settings reboot)*  
 
 ---
 
-## 📦 Download
+## 📦 Download  
+![No Install Badge](https://img.shields.io/badge/Installer-Not_Required-007ec6?style=flat)
 
 [![Download PowerMenu](https://img.shields.io/badge/GitHub-Download_PowerMenu-blue?logo=github)](https://github.com/HazemTech365/PowerMenu/releases)
 
@@ -120,29 +127,27 @@ Or clone this repository manually:
 git clone https://github.com/HazemTech365/PowerMenu.git
 ```
 
-After cloning or visiting the [Releases page](https://github.com/HazemTech365/PowerMenu/releases), just:
-
 > 🖱️ Download either `PowerMenu_x64.exe` *(for 64-bit)* or `PowerMenu_x86.exe` *(for 32-bit)*, then **double-click to launch.**  
 > ✅ Click “Yes” if prompted — and your PowerMenu will open instantly, no installation required.
 
 ---
 
-## 🛠 Troubleshooting
+## 🛠 Troubleshooting  
+![Troubleshooting Badge](https://img.shields.io/badge/Help-Fast_Start_&_Safe_Mode_Tips-007ec6?style=flat)
 
 Having issues? Here are some quick fixes:
 
 - ⚙️ **Safe Mode options not working?**  
-  > Make sure you're running PowerMenu with **Administrator privileges** to allow boot-level changes like entering Safe Mode.  
+  > Make sure you're running PowerMenu with **Administrator privileges**.  
   > Right-click → “Run as administrator”.
 
 - ⚡ **Shutdown or Restart doesn’t happen right away?**  
-  > If **Fast Startup** is enabled, Windows might delay or override shutdown commands.  
+  > If **Fast Startup** is enabled, Windows might delay shutdown commands.  
   > Disable it via:  
   > *Control Panel → Power Options → Choose what the power buttons do → Change settings that are currently unavailable → Uncheck "Turn on fast startup"*
 
 - 🌀 **Stuck in Safe Mode after reboot?**  
-  > Don’t worry — **PowerMenu auto-detects Safe Mode** and will prompt you to exit it automatically when you launch the app.  
-  > No manual command needed — just open PowerMenu and reboot normally.
+  > PowerMenu auto-detects Safe Mode and will prompt to exit it. Just reopen the app and reboot.
 
 - 🧪 **Still stuck manually?**  
   > Open **Command Prompt as Administrator** and run:  
@@ -150,29 +155,19 @@ Having issues? Here are some quick fixes:
 
 ---
 
-## 🧾 Latest Versions
+## 🧾 Latest Versions  
+![Version Badge](https://img.shields.io/github/v/release/HazemTech365/PowerMenu?label=Stable%20Release&color=007ec6)
 
 The current **latest versions** are:
 
-<a href="https://github.com/HazemTech365/PowerMenu/releases/latest" style="text-decoration:none;">
-  <img src="https://img.shields.io/github/v/release/HazemTech365/PowerMenu?label=Latest%20stable%20version&logo=github&color=007ec6&style=flat" 
-       alt="Latest stable version badge"
-       style="transition: transform 0.3s ease; cursor:pointer;"
-       onmouseover="this.style.transform='scale(1.05)';"
-       onmouseout="this.style.transform='scale(1)';" />
-</a>
-<br>
-<a href="https://github.com/HazemTech365/PowerMenu/releases" style="text-decoration:none;">
-  <img src="https://img.shields.io/github/v/release/HazemTech365/PowerMenu?include_prereleases&label=Latest%20beta%20version&logo=github&color=007ec6&style=flat"
-       alt="Latest beta version badge"
-       style="transition: transform 0.3s ease; cursor:pointer;"
-       onmouseover="this.style.transform='scale(1.05)';"
-       onmouseout="this.style.transform='scale(1)';" />
+<a href="https://github.com/HazemTech365/PowerMenu/releases/latest">
+  <img src="https://img.shields.io/github/v/release/HazemTech365/PowerMenu?label=Latest%20stable%20version&logo=github&color=007ec6&style=flat" />
+</a><br>
+<a href="https://github.com/HazemTech365/PowerMenu/releases">
+  <img src="https://img.shields.io/github/v/release/HazemTech365/PowerMenu?include_prereleases&label=Latest%20beta%20version&logo=github&color=007ec6&style=flat" />
 </a>
 
-> ℹ️ _*If no beta version is published yet, the badge might show the latest stable version instead.*_
-
-Click the badges to view changelogs, new features, or grab an older version! 🚀
+> ℹ️ _If no beta version is published yet, the badge will display the last stable version._
 
 ---
 
@@ -181,27 +176,27 @@ Click the badges to view changelogs, new features, or grab an older version! �
 This project is licensed under the **MIT License**.
 
 ```
-MIT License
-
-Copyright (c) 2025 Hazem Mohamed
-
-Permission is hereby granted, free of charge, to any person obtaining a copy  
-of this software and associated documentation files (the "Software"), to deal  
-in the Software without restriction, including without limitation the rights  
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
-copies of the Software, and to permit persons to whom the Software is  
-furnished to do so, subject to the following conditions:  
-
-The above copyright notice and this permission notice shall be included in all  
-copies or substantial portions of the Software.  
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
-SOFTWARE.  
+MIT License  
+  
+Copyright (c) 2025 Hazem Mohamed  
+  
+Permission is hereby granted, free of charge, to any person obtaining a copy    
+of this software and associated documentation files (the "Software"), to deal    
+in the Software without restriction, including without limitation the rights    
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell    
+copies of the Software, and to permit persons to whom the Software is    
+furnished to do so, subject to the following conditions:    
+  
+The above copyright notice and this permission notice shall be included in all    
+copies or substantial portions of the Software.    
+  
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR    
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,    
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE    
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER    
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,    
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE    
+SOFTWARE.
 ```
 
 ---
@@ -215,7 +210,8 @@ Developed and maintained by:
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing  
+![Contribute Badge](https://img.shields.io/badge/PRs-Welcome-007ec6?style=flat)
 
 Contributions, suggestions, and pull requests are welcome!
 
@@ -224,9 +220,7 @@ If you'd like to help improve PowerMenu:
 - Make your changes
 - Submit a pull request
 
-> 💡 Have feedback, found a bug, or got an idea? [Open an issue](https://github.com/HazemTech365/PowerMenu/issues/new) and let’s make it better together!
-
-Together, we can make PowerMenu even more powerful 💪
+> 💡 [Open an issue](https://github.com/HazemTech365/PowerMenu/issues/new) if you have feedback or ideas!
 
 ---
 
@@ -244,14 +238,13 @@ Together, we can make PowerMenu even more powerful 💪
   </a>
 </p>
 
-If you enjoy using PowerMenu or find it helpful:
+If you enjoy using PowerMenu:
 
-- 🌟 Give it a **star** to show your support  
-- 🍴 Fork it to start contributing or customizing  
-- 📣 Share it with others — help more people stay in control  
+- 🌟 Star it  
+- 🍴 Fork it  
+- 🗣 Share it
 
-PowerMenu is proudly open-source and powered by the community.  
-Let’s make it even better — together 💪
+PowerMenu is powered by community ❤️ Let's keep it going.
 
 ---
 
