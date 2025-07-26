@@ -9,7 +9,6 @@
   <br>
   <img src="https://img.shields.io/github/downloads/HazemTech365/PowerMenu/total?label=Downloads&logo=github&color=007ec6&style=flat">
 </p>
-<br>
 <img src="https://img.shields.io/badge/language-AutoIt-blue" alt="Language: AutoIt">
 
 
