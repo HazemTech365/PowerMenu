@@ -162,7 +162,7 @@ The current **latest versions** are:
   <img src="https://img.shields.io/github/v/release/HazemTech365/PowerMenu?include_prereleases&label=Latest%20beta%20version&logo=github&color=007ec6&style=flat" alt="Latest beta version badge">
 </a>
 
-> ℹ️ *If no beta version has been published yet, the badge might look empty or show the latest stable version instead.*
+> ℹ️ *If no beta version is published yet, the badge might show the latest stable version instead.*
 
 Click the badges to view changelogs, new features, or grab an older version! 🚀
 
