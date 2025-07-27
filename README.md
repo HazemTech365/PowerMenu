@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/github/license/HazemTech365/PowerMenu?label=License&color=007ec6&style=flat">
   <img src="https://img.shields.io/github/downloads/HazemTech365/PowerMenu/total?label=Downloads&logo=github&color=007ec6&style=flat">
   <img src="https://img.shields.io/github/repo-size/HazemTech365/PowerMenu?label=Repo%20Size&color=007ec6&style=flat">
+
+![Author](https://img.shields.io/badge/Author-HazemTech365-blueviolet?style=for-the-badge&logo=github)
+
   <img src="https://img.shields.io/badge/Coming%20Soon-Features%20Planned-orange?style=flat&logo=github">
 </p>
 
