@@ -30,7 +30,7 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
   <li><a href="#-features">🚀 Features</a></li>
   <li><a href="#-screenshots">🖼 Screenshots</a></li>
   <li><a href="#shortcuts">⌨️ Keyboard Shortcuts</a></li>
-  <li><a href="#-command-table">💻 Command Table</a></li>
+  <li><a href="#-command-table">👨🏼‍💻 Command Table</a></li>
   <li><a href="#-system-requirements">💻 System Requirements</a></li>
   <li><a href="#-download">📥 Download</a></li>
   <li><a href="#-troubleshooting">🛠 Troubleshooting</a></li>
@@ -89,7 +89,7 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 
 ---
 
-## 💻 Command Table  
+## 👨🏼‍💻 Command Table  
 ![Command Badge](https://img.shields.io/badge/Execution-Safe_&_Admin_Commands-007ec6?style=flat)
 
 > ℹ️ You don't have to use these manually — PowerMenu runs them for you behind the scenes!
