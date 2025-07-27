@@ -162,8 +162,8 @@ Having issues? Here are some quick fixes:
 ---
 
 <div id="known-issues"></div>
-## ⚠️ Known Issues & Limitations
 
+## ⚠️ Known Issues & Limitations
 
 > These are not user-reported bugs, but important things to be aware of:
 
