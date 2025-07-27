@@ -76,7 +76,7 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 
 ---
 
-<a name="keyboard-shortcuts"></a>
+<div id="shortcuts"></div>
 
 ## ⌨️ Keyboard Shortcuts  
 ![Shortcuts Badge](https://img.shields.io/badge/Shortcut-Ctrl+Shift+C-007ec6?style=flat)
