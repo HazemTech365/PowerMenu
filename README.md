@@ -198,8 +198,8 @@ The current **latest versions** are:
 
 - 🎛️ **New Options Menu**: Toggle confirmation prompts on/off (shortcuts like `Ctrl + Shift + C` will always work independently).  
 - ❓ **New Help Menu** including:  
-  - About section (Shortcut: `Ctrl+Shift+A` 
-  - Help documentation (`powermenu.chm`) included in a future `.zip` package (Shortcut: `Ctrl+Shift+H`  
+  - About section (Shortcut: `Ctrl+Shift+A`) 
+  - Help documentation (`powermenu.chm`) included in a future `.zip` package (Shortcut: `Ctrl+Shift+H`)  
 - 🎭 **Themes Menu** coming soon inside the Options Menu, featuring:  
   - **Classic Mode** theme in the next release  
   - Additional themes including **Dark Mode** coming soon  
