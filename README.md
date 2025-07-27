@@ -26,23 +26,29 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 
 ## 📚 Table of Contents
 
-- [🚀 Features](#-features)  
-- [🖼 Screenshots](#-screenshots)  
-- [⌨️ Keyboard Shortcuts](#shortcuts)  
-- [💻 Command Table](#-command-table)  
-- [💻 System Requirements](#-system-requirements)  
-- [📥 Download](#-download)  
-- [🛠 Troubleshooting](#-troubleshooting) 
-- [⚠️ Known Issues & Limitations](#known-issues)
-- [❓ FAQ](#-faq) 
-- [🧾 Latest Versions](#-latest-versions)
-- [🚧 Coming Soon](#-coming-soon)  
-- [🪪 License](#-license)  
-- [👤 Author](#-author)  
-- [🤝 Contributing](#-contributing)  
-- [🌟 Support This Project](#-support-this-project)  
-- [⚡ TL;DR](#-tldr)  
-- [🏁 Final Words](#-final-words)
+<ul>
+  <li><a href="#-features">🚀 Features</a></li>
+  <li><a href="#-screenshots">🖼 Screenshots</a></li>
+  <li><a href="#shortcuts">⌨️ Keyboard Shortcuts</a></li>
+  <li><a href="#-command-table">💻 Command Table</a></li>
+  <li><a href="#-system-requirements">💻 System Requirements</a></li>
+  <li><a href="#-download">📥 Download</a></li>
+  <li><a href="#-troubleshooting">🛠 Troubleshooting</a></li>
+  <li><a href="#known-issues">⚠️ Known Issues & Limitations</a></li>
+  <li><a href="#-faq">❓ FAQ</a></li>
+  <li><a href="#-latest-versions">🧾 Latest Versions</a></li>
+  <li><a href="#-coming-soon">🚧 Coming Soon</a> 
+    <img src="https://img.shields.io/badge/Coming_Soon-in_progress-orange?style=flat" alt="Coming Soon Badge">
+  </li>
+  <li><a href="#-license">🪪 License</a> 
+    <img src="https://img.shields.io/github/license/HazemTech365/PowerMenu?label=License&color=007ec6&style=flat" alt="License Badge">
+  </li>
+  <li><a href="#-author">👤 Author</a></li>
+  <li><a href="#-contributing">🤝 Contributing</a></li>
+  <li><a href="#-support-this-project">🌟 Support This Project</a></li>
+  <li><a href="#-tldr">⚡ TL;DR</a></li>
+  <li><a href="#-final-words">🏁 Final Words</a></li>
+</ul>
 
 ---
 
