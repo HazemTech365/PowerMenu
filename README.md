@@ -33,6 +33,7 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 - [💻 System Requirements](#-system-requirements)  
 - [📥 Download](#-download)  
 - [🛠 Troubleshooting](#-troubleshooting) 
+- - [⚠️ Known Issues & Limitations](#-known-issues--limitations)
 - [❓ FAQ](#-faq) 
 - [🧾 Latest Versions](#-latest-versions)
 - [🚧 Coming Soon](#-coming-soon)  
@@ -160,6 +161,26 @@ Having issues? Here are some quick fixes:
 
 ---
 
+## ⚠️ Known Issues & Limitations
+
+> These are not user-reported bugs, but important things to be aware of:
+
+- **UEFI Required for Full Features:** Some settings and options may be unavailable on systems using Legacy BIOS. UEFI is strongly recommended.
+
+- **Administrator Rights Needed:** The app may fail to function properly if not run as Administrator. For best results, right-click and choose **"Run as administrator"**.
+
+- **Windows-Only (For Now):** This tool is currently built for Windows systems only. Support for Linux/macOS may come later.
+
+- **Antivirus False Positives:** Some antivirus software might flag the executable due to the use of certain system-level commands. Rest assured, the tool is clean.
+
+- **No Offline Mode (Yet):** Certain features may require an active internet connection (depending on your version).
+
+- **Display Scaling Issues:** On some systems with custom DPI settings, UI elements may not appear properly scaled. A fix is planned for a future version.
+
+This list will expand as we discover more edge cases or system-specific quirks.
+
+---
+
 ## ❓ FAQ
 
 ![FAQ Badge](https://img.shields.io/badge/FAQ-Questions-007ec6?style=flat)
@@ -196,6 +217,8 @@ The current **latest versions** are:
 
 ## 🚧 Coming Soon
 
+<img src="https://img.shields.io/badge/Coming_Soon-in_progress-orange?style=flat">
+
 - 🎛️ **New Options Menu**: Toggle confirmation prompts on/off (shortcuts like `Ctrl + Shift + C` will always work independently).  
 - ❓ **New Help Menu** including:  
   - About section (Shortcut: `Ctrl+Shift+A`) 
@@ -208,6 +231,8 @@ The current **latest versions** are:
 ---
 
 ## 🪪 License
+
+<img src="https://img.shields.io/github/license/HazemTech365/PowerMenu?label=License&color=007ec6&style=flat">
 
 This project is licensed under the **MIT License**.
 
