@@ -50,7 +50,8 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 
 ---
 
-## 🚀 Features  
+## 🚀 Features 
+ 
 ![Features Badge](https://img.shields.io/badge/Modes-Safe_Mode_&_Advanced_Recovery-007ec6?style=flat)
 
 - 🔌 Shutdown, Restart, Sleep, Hibernate, Log Off  
@@ -70,6 +71,7 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 ---
 
 ## 🖼 Screenshots  
+
 ![Screenshot Badge](https://img.shields.io/badge/UI-Simple_&_Clean-007ec6?style=flat)
 
 **Main Menu**  
@@ -82,7 +84,8 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 
 <div id="shortcuts"></div>
 
-## ⌨️ Keyboard Shortcuts  
+## ⌨️ Keyboard Shortcuts 
+ 
 ![Shortcuts Badge](https://img.shields.io/badge/Shortcut-Ctrl+Shift+C-007ec6?style=flat)
 
 | Shortcut            | Action                             |
@@ -92,6 +95,7 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 ---
 
 ## 📟 Command Table  
+
 ![Command Badge](https://img.shields.io/badge/Execution-Safe_&_Admin_Commands-007ec6?style=flat)
 
 > ℹ️ You don't have to use these manually — PowerMenu runs them for you behind the scenes!
@@ -116,7 +120,8 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 
 ---
 
-## 💻 System Requirements  
+## 💻 System Requirements 
+ 
 [![Windows 11](https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D6?logo=windows11&logoColor=white&style=flat&labelColor=0078D6)](https://www.microsoft.com/windows)
 [![Windows 10](https://custom-icon-badges.demolab.com/badge/Windows%2010-0078D6?logo=windows11&logoColor=white&style=flat&labelColor=0078D6)](https://www.microsoft.com/windows)
 [![Windows 8/8.1](https://custom-icon-badges.demolab.com/badge/Windows%208%2F8.1-yellow?logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
@@ -126,7 +131,8 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 
 ---
 
-## 📥 Download  
+## 📥 Download 
+ 
 ![No Install Badge](https://img.shields.io/badge/Installer-Not_Required-007ec6?style=flat)
 [![Download PowerMenu](https://img.shields.io/badge/GitHub-Download_PowerMenu-blue?logo=github)](https://github.com/HazemTech365/PowerMenu/releases)
 
@@ -141,7 +147,8 @@ git clone https://github.com/HazemTech365/PowerMenu.git
 
 ---
 
-## 🛠 Troubleshooting  
+## 🛠 Troubleshooting
+  
 ![Troubleshooting Badge](https://img.shields.io/badge/Help-Fast_Start_&_Safe_Mode_Tips-007ec6?style=flat)
 
 Having issues? Here are some quick fixes:
@@ -209,6 +216,7 @@ A: PowerMenu is 100% clean and open-source. Some antivirus tools may flag AutoIt
 ---
 
 ## 🧾 Latest Versions  
+
 ![Version Badge](https://img.shields.io/github/v/release/HazemTech365/PowerMenu?label=Stable%20Release&color=007ec6)
 
 The current **latest versions** are:
@@ -294,7 +302,8 @@ Developed and maintained by:
 
 ---
 
-## 🤝 Contributing  
+## 🤝 Contributing
+  
 ![Contribute Badge](https://img.shields.io/badge/PRs-Welcome-007ec6?style=flat)
 
 Contributions, suggestions, and pull requests are welcome!
@@ -343,6 +352,8 @@ Download on GitHub and stay powered! 🚀
 ---
 
 ## 🏁 Final Words
+
+<img src="https://img.shields.io/badge/🏁 Final Words-Tech%20Heart%20%26%20Power-orange?style=for-the-badge" alt="Final Words Badge">
 
 PowerMenu started as a small idea, but it's made with love, care, and real tech spirit.  
 Whether you're a power user or someone who just wants control — this tool is for you.
