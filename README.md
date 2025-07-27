@@ -160,6 +160,8 @@ Having issues? Here are some quick fixes:
 
 ## ❓ FAQ
 
+![FAQ Badge](https://img.shields.io/badge/FAQ-Questions-007ec6?style=flat)
+
 **Q: Why do I need to run PowerMenu as Administrator for Safe Mode?**  
 A: Changing Safe Mode settings requires system-level permissions, so admin rights are necessary for those commands to work.
 
