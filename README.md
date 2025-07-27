@@ -128,7 +128,6 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 
 ## 📥 Download  
 ![No Install Badge](https://img.shields.io/badge/Installer-Not_Required-007ec6?style=flat)
-<br>
 [![Download PowerMenu](https://img.shields.io/badge/GitHub-Download_PowerMenu-blue?logo=github)](https://github.com/HazemTech365/PowerMenu/releases)
 
 Or clone this repository manually:
@@ -179,7 +178,6 @@ Having issues? Here are some quick fixes:
 
 - **Antivirus False Positives:** Some antivirus software might flag the executable due to the use of certain system-level commands. Rest assured, the tool is clean.
 
-- **No Offline Mode (Yet):** Certain features may require an active internet connection (depending on your version).
 
 - **Display Scaling Issues:** On some systems with custom DPI settings, UI elements may not appear properly scaled. A fix is planned for a future version.
 
@@ -284,6 +282,8 @@ SOFTWARE.
 ---
 
 ## 👤 Author
+
+<img src="https://img.shields.io/badge/Author-HazemTech365-blueviolet" alt="Author: HazemTech365">
 
 Developed and maintained by:
 
