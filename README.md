@@ -37,12 +37,8 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
   <li><a href="#known-issues">⚠️ Known Issues & Limitations</a></li>
   <li><a href="#-faq">❓ FAQ</a></li>
   <li><a href="#-latest-versions">🧾 Latest Versions</a></li>
-  <li><a href="#-coming-soon">🚧 Coming Soon</a> 
-    <img src="https://img.shields.io/badge/Coming_Soon-in_progress-orange?style=flat" alt="Coming Soon Badge">
-  </li>
-  <li><a href="#-license">🪪 License</a> 
-    <img src="https://img.shields.io/github/license/HazemTech365/PowerMenu?label=License&color=007ec6&style=flat" alt="License Badge">
-  </li>
+  <li><a href="#-coming-soon">🚧 Coming Soon</a></li>
+  <li><a href="#-license">🪪 License</a></li>
   <li><a href="#-author">👤 Author</a></li>
   <li><a href="#-contributing">🤝 Contributing</a></li>
   <li><a href="#-support-this-project">🌟 Support This Project</a></li>
