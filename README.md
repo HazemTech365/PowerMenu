@@ -250,6 +250,16 @@ PowerMenu is powered by community ❤️ Let's keep it going.
 
 ---
 
+## ⚡ TL;DR
+
+PowerMenu is your **lightweight Windows power utility** that puts shutdown, restart, sleep, hibernate, Safe Mode, and advanced reboot options all in one sleek app — no install needed.  
+Run it, choose your action, done. Perfect for power users who want **full control without the hassle**.  
+Works on Windows 8, 10, and 11.  
+Admin rights required for Safe Mode and advanced features.  
+Download on GitHub and stay powered! 🚀
+
+---
+
 ## 🏁 Final Words
 
 PowerMenu started as a small idea, but it's made with love, care, and real tech spirit.  
