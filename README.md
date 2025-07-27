@@ -109,9 +109,9 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 ---
 
 ## 💻 System Requirements  
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D7?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows%2010-%230078D7?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 8 / 8.1](https://img.shields.io/badge/Windows%208%20%2F%208.1-%23FFD700?style=for-the-badge&logo=windows&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D7?style=flat-square&logo=windows&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows%2010-0078D7?style=flat-square&logo=windows&logoColor=white)
+![Windows 8 / 8.1](https://img.shields.io/badge/Windows%208%20/%208.1-FFD700?style=flat-square&logo=windows&logoColor=white)
 
 - Windows 11, 10, and 8  
 - UEFI support *(required for firmware settings reboot)*  
