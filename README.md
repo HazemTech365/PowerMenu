@@ -33,7 +33,7 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 - [💻 System Requirements](#-system-requirements)  
 - [📥 Download](#-download)  
 - [🛠 Troubleshooting](#-troubleshooting) 
-- - [⚠️ Known Issues & Limitations](#-known-issues--limitations)
+- [⚠️ Known Issues & Limitations](#-known-issues--limitations)
 - [❓ FAQ](#-faq) 
 - [🧾 Latest Versions](#-latest-versions)
 - [🚧 Coming Soon](#-coming-soon)  
