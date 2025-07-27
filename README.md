@@ -34,7 +34,8 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 - [📦 Download](#-download)  
 - [🛠 Troubleshooting](#-troubleshooting) 
 - [❓ FAQ](#-faq) 
-- [🧾 Latest Versions](#-latest-versions)  
+- [🧾 Latest Versions](#-latest-versions)
+- [🚧 Coming Soon](#-coming-soon)  
 - [🪪 License](#-license)  
 - [👤 Author](#-author)  
 - [🤝 Contributing](#-contributing)  
@@ -190,6 +191,19 @@ The current **latest versions** are:
 </a>
 
 > ℹ️ _If no beta version is published yet, the badge will display the last stable version._
+
+---
+
+## 🚧 Coming Soon
+
+- 🎛️ **New Options Menu**: Toggle confirmation prompts on/off (shortcuts like `Ctrl + Shift + C` will always work independently).  
+- ❓ **New Help Menu** including:  
+  - About section (Shortcut: `Ctrl+Shift+A` 
+  - Help documentation (`powermenu.chm`) included in a future `.zip` package (Shortcut: `Ctrl+Shift+H`  
+- 🎭 **Themes Menu** coming soon inside the Options Menu, featuring:  
+  - **Classic Mode** theme in the next release  
+  - Additional themes including **Dark Mode** coming soon  
+- 💻 **CLI Mode** toggle added in Options for command line control.
 
 ---
 
