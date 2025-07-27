@@ -23,7 +23,6 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 ---
 
 ![PowerMenu Screenshot](https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Main.png?raw=true)
-
 ---
 
 ## 📚 Table of Contents
@@ -73,6 +72,9 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 ## 🖼 Screenshots  
 
 ![Screenshot Badge](https://img.shields.io/badge/UI-Simple_&_Clean-007ec6?style=flat)
+
+**Video:**
+https://youtu.be/zWv_q7QPIGY?si=kAXWWSnF-DXOPPU1
 
 **Main Menu**  
 ![Main Menu](https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Main.png?raw=true)  
