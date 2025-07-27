@@ -202,6 +202,9 @@ A: Currently, PowerMenu uses a fixed clean interface. UI customization might be 
 **Q: Is installation required?**  
 A: Nope! PowerMenu is portable — just download and run the `.exe`. No install needed.
 
+**Q: Is this safe to run? Why does my antivirus warn me?**  
+A: PowerMenu is 100% clean and open-source. Some antivirus tools may flag AutoIt EXEs due to how they interact with system commands. You can always inspect the code or build from source.
+
 ---
 
 ## 🧾 Latest Versions  
