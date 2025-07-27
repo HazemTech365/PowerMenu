@@ -232,6 +232,18 @@ The current **latest versions** are:
   - **Classic Mode** theme in the next release  
   - Additional themes including **Dark Mode** coming soon  
 - 💻 **CLI Mode** toggle added in Options for command line control.
+- **🛠️ Auto-Updater System**  
+  Seamlessly checks for the latest version of the tool from GitHub.  
+  If an update is found:
+  - Prompts the user to update
+  - Automatically downloads the updated EXE
+  - Closes the current app
+  - Reopens the new version — **in administrator mode**, like a pro! 😎  
+  All without manual effort. Just pure automation magic.✨
+- **🌐 Multi-language Support**  
+  Interface translation for a global audience!  
+  Switch between languages with ease — English, Arabic, and more to come!  
+  Get ready for **multilingual** support
 
 ---
 
