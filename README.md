@@ -158,6 +158,22 @@ Having issues? Here are some quick fixes:
 
 ---
 
+## ❓ FAQ
+
+**Q: Why do I need to run PowerMenu as Administrator for Safe Mode?**  
+A: Changing Safe Mode settings requires system-level permissions, so admin rights are necessary for those commands to work.
+
+**Q: Does PowerMenu support Windows 7?**  
+A: PowerMenu is tested and confirmed on Windows 8, 10, and 11. Windows 7 support isn’t officially guaranteed — it might work, but some features could be missing or behave unexpectedly.
+
+**Q: Can I customize the PowerMenu UI?**  
+A: Currently, PowerMenu uses a fixed clean interface. UI customization might be added in future releases.
+
+**Q: Is installation required?**  
+A: Nope! PowerMenu is portable — just download and run the `.exe`. No install needed.
+
+---
+
 ## 🧾 Latest Versions  
 ![Version Badge](https://img.shields.io/github/v/release/HazemTech365/PowerMenu?label=Stable%20Release&color=007ec6)
 
