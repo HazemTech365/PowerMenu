@@ -109,9 +109,9 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 ---
 
 ## 💻 System Requirements  
-[![Windows 11](https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D6?logo=windows&logoColor=white&style=for-the-badge)](https://www.microsoft.com/windows11)
-[![Windows 10](https://custom-icon-badges.demolab.com/badge/Windows%2010-0078D6?logo=windows&logoColor=white&style=for-the-badge)](https://www.microsoft.com/software-download/windows10)
-[![Windows 8/8.1](https://custom-icon-badges.demolab.com/badge/Windows%208%2F8.1-FFD700?logo=windows&logoColor=white&style=for-the-badge)](https://support.microsoft.com/en-us/windows/end-of-support-for-windows-8-1-4c5ae3f2-93af-291a-6d3a-4b5f5e3b6d74)
+[![Windows 11](https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D6?logo=windows11&logoColor=white&style=flat&labelColor=0078D6)](https://www.microsoft.com/windows)
+[![Windows 10](https://custom-icon-badges.demolab.com/badge/Windows%2010-0078D6?logo=windows&logoColor=white&style=flat&labelColor=0078D6)](https://www.microsoft.com/windows)
+[![Windows 8/8.1](https://custom-icon-badges.demolab.com/badge/Windows%208%2F8.1-FFD700?logo=windows&logoColor=white&style=flat&labelColor=FFD700)](https://www.microsoft.com/windows)
 
 - Windows 11, 10, and 8  
 - UEFI support *(required for firmware settings reboot)*  
