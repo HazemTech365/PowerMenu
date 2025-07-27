@@ -31,7 +31,7 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 - [⌨️ Keyboard Shortcuts](#keyboard-shortcuts)  
 - [💻 Command Table](#-command-table)  
 - [💻 System Requirements](#-system-requirements)  
-- [📦 Download](#-download)  
+- [📥 Download](#-download)  
 - [🛠 Troubleshooting](#-troubleshooting) 
 - [❓ FAQ](#-faq) 
 - [🧾 Latest Versions](#-latest-versions)
@@ -121,7 +121,7 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 
 ---
 
-## 📦 Download  
+## 📥 Download  
 ![No Install Badge](https://img.shields.io/badge/Installer-Not_Required-007ec6?style=flat)
 <br>
 [![Download PowerMenu](https://img.shields.io/badge/GitHub-Download_PowerMenu-blue?logo=github)](https://github.com/HazemTech365/PowerMenu/releases)
