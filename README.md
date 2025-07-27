@@ -168,6 +168,8 @@ Having issues? Here are some quick fixes:
 
 ## ⚠️ Known Issues & Limitations
 
+<img src="https://img.shields.io/badge/Known%20Issues-Yes-critical" alt="Known Issues">
+
 > These are not user-reported bugs, but important things to be aware of:
 
 - **UEFI Required for Full Features:** Some settings and options may be unavailable on systems using Legacy BIOS. UEFI is strongly recommended.
