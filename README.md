@@ -1,5 +1,7 @@
 # PowerMenu 
 
+---
+
 ### Your all-in-one reboot, shutdown, and Safe Mode launcher for Windows ⚡
 
 <p align="left" style="display: flex; flex-direction: column; gap: 4px; align-items: start;">
