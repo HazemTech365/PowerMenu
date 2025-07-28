@@ -38,7 +38,7 @@ PowerMenu is a modern, lightweight utility that puts **all essential power contr
 - [📥 Download](#-download)
 - [🛠 Troubleshooting](#-troubleshooting)
 - [⚠️ Known Issues & Limitations](#known-issues)
-- [🛡️ Security Notice](#-security-notice)
+- [🛡️ Security Notice](#security)
 - [❓ FAQ](#-faq)
 - [🧾 Latest Versions](#-latest-versions)
 - [👨‍💻 Coming Soon](#-coming-soon)
@@ -205,6 +205,8 @@ Having issues? Here are some quick fixes:
 This list will expand as we discover more edge cases or system-specific quirks.
 
 ---
+
+<div id="security"></div>
 
 ## 🛡️ Security Notice
 
