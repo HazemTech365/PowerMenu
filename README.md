@@ -338,10 +338,10 @@ If you'd like to help improve PowerMenu:
   <a href="https://github.com/HazemTech365/PowerMenu/network/members">
     <img src="https://img.shields.io/github/forks/HazemTech365/PowerMenu?style=flat&logo=github&label=Forks&color=007ec6">
   </a><br>
-  <a href="https://github.com/HazemTech365/PowerMenu/issues">
+  <a href="https://github.com/HazemTech365/PowerMenu/issues"><br>
     <img src="https://img.shields.io/github/issues/HazemTech365/PowerMenu?style=flat&logo=github&label=Issues&color=007ec6">
 <img src="https://img.shields.io/badge/Watchers-3-blue?style=flat&logo=eye" alt="Watchers Badge" />
-  </a><br>
+  </a>
 </p>
 
 If you enjoy using PowerMenu:
