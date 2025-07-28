@@ -333,14 +333,16 @@ If you'd like to help improve PowerMenu:
 
 <p>
   <a href="https://github.com/HazemTech365/PowerMenu/stargazers">
-    <img src="https://img.shields.io/github/stars/HazemTech365/PowerMenu?style=flat&logo=github&label=Stars&color=007ec6">
+    <img src="https://img.shields.io/github/stars/HazemTech365/PowerMenu?style=flat&logo=github&label=Stars&color=007ec6" alt="GitHub Stars" />
   </a><br>
   <a href="https://github.com/HazemTech365/PowerMenu/network/members">
-    <img src="https://img.shields.io/github/forks/HazemTech365/PowerMenu?style=flat&logo=github&label=Forks&color=007ec6">
+    <img src="https://img.shields.io/github/forks/HazemTech365/PowerMenu?style=flat&logo=github&label=Forks&color=007ec6" alt="GitHub Forks" />
   </a><br>
-  <a href="https://github.com/HazemTech365/PowerMenu/issues"><br>
-    <img src="https://img.shields.io/github/issues/HazemTech365/PowerMenu?style=flat&logo=github&label=Issues&color=007ec6">
-<img src="https://img.shields.io/badge/Watchers-3-blue?style=flat&logo=eye" alt="Watchers Badge" />
+  <a href="https://github.com/HazemTech365/PowerMenu/issues">
+    <img src="https://img.shields.io/github/issues/HazemTech365/PowerMenu?style=flat&logo=github&label=Issues&color=007ec6" alt="GitHub Issues" />
+  </a><br>
+  <a href="https://github.com/HazemTech365/PowerMenu/watchers">
+    <img src="https://img.shields.io/github/watchers/HazemTech365/PowerMenu?style=flat&logo=eye&label=Watchers&color=007ec6" alt="GitHub Watchers" />
   </a>
 </p>
 
