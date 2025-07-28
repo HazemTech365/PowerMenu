@@ -1,4 +1,15 @@
-# PowerMenu 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HazemTech365/PowerMenu/4c574d093cea6d4e1f6b031536e30a7586f2e887/longpowermenu.png" alt="PowerMenu Screenshot" width="200" />
+</p>
+
+
+
+
+
+
+
+
+<h1 align="center">PowerMenu</h1>
 
 ### Your all-in-one reboot, shutdown, and Safe Mode launcher for Windows ⚡
 
@@ -85,6 +96,11 @@ PowerMenu is a modern, lightweight utility that puts **all essential power contr
 
 **Video:**
 [![Watch PowerMenu Demo](https://img.youtube.com/vi/zWv_q7QPIGY/0.jpg)](https://youtu.be/zWv_q7QPIGY)
+
+**Icon**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HazemTech365/PowerMenu/4c574d093cea6d4e1f6b031536e30a7586f2e887/longpowermenu.png" alt="PowerMenu Screenshot" width="200" />
+</p>
 
 **Main Menu**  
 ![Main Menu](https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Main.png?raw=true)  
