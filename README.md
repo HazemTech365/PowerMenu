@@ -340,7 +340,7 @@ If you'd like to help improve PowerMenu:
   </a><br>
   <a href="https://github.com/HazemTech365/PowerMenu/issues">
     <img src="https://img.shields.io/github/issues/HazemTech365/PowerMenu?style=flat&logo=github&label=Issues&color=007ec6">
-<img src="https://img.shields.io/badge/Watchers-3-blue?style=flat&logo=eye" alt="Watchers Badge" />
+<img src="https://img.shields.io/badge/Watchers-3-blue?style=flat&logo=eye" alt="Watchers Badge" /><br>
   </a>
 </p>
 
