@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Author-HazemTech365-blueviolet" alt="Author: HazemTech365">
   <img src="https://img.shields.io/badge/Coming%20Soon-Features%20Planned-orange?style=flat&logo=github">
 <img src="https://img.shields.io/github/issues-pr/HazemTech365/PowerMenu?label=Open%20PRs&color=blue">
-<img src="https://img.shields.io/github/watchers/HazemTech365/PowerMenu?style=social">
+
 </p>
 
 PowerMenu is a modern and lightweight shutdown utility that puts **every essential power control** at your fingertips. Built for Windows, it delivers powerful options in one clean interface — whether you're shutting down, restarting, hibernating, or jumping into Safe Mode.  
@@ -340,6 +340,7 @@ If you'd like to help improve PowerMenu:
   </a><br>
   <a href="https://github.com/HazemTech365/PowerMenu/issues">
     <img src="https://img.shields.io/github/issues/HazemTech365/PowerMenu?style=flat&logo=github&label=Issues&color=007ec6">
+<img src="https://img.shields.io/badge/Watchers-3-blue?style=flat&logo=eye" alt="Watchers Badge" />
   </a>
 </p>
 
