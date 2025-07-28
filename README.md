@@ -29,6 +29,7 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 
 <ul>
   <li><a href="#-features">🚀 Features</a></li>
+  <li><a href="#-quick-start">🏁 Quick start</a></li>
   <li><a href="#-screenshots">🖼 Screenshots</a></li>
   <li><a href="#shortcuts">⌨️ Keyboard Shortcuts</a></li>
   <li><a href="#-command-table">📟 Command Table</a></li>
@@ -66,6 +67,13 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
   - Exit Safe Mode *(auto-detected if already in Safe Mode)*  
 
 > ⚠️ If PowerMenu detects Safe Mode, it **will require a reboot** to exit it.
+
+---
+
+## 🏁 Quick Start
+1. Download `PowerMenu_x64.exe`
+2. Right-click → Run as Administrator
+3. Boom — power options galore ⚡
 
 ---
 
