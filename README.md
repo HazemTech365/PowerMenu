@@ -14,7 +14,7 @@
 
 </p>
 
-PowerMenu is a modern and lightweight shutdown utility that puts **every essential power control** at your fingertips. Built for Windows, it delivers powerful options in one clean interface — whether you're shutting down, restarting, hibernating, or jumping into Safe Mode.  
+PowerMenu is a modern, lightweight utility that puts **all essential power controls** at your fingertips. Built for Windows, it delivers powerful options in one clean interface — whether you're shutting down, restarting, hibernating, or jumping into Safe Mode.  
 
 ---
 
@@ -68,7 +68,7 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
   - Command Prompt (Safe Mode with Command Prompt)  
   - Exit Safe Mode *(auto-detected if already in Safe Mode)*  
 
-> ⚠️ If PowerMenu detects Safe Mode, it **will require a reboot** to exit it.
+> ⚠️ If PowerMenu detects you're in Safe Mode, it'll prompt you to reboot and exit automatically.
 
 ---
 
@@ -84,7 +84,7 @@ PowerMenu is a modern and lightweight shutdown utility that puts **every essenti
 ![Screenshot Badge](https://img.shields.io/badge/UI-Simple_&_Clean-007ec6?style=flat)
 
 **Video:**
-https://youtu.be/zWv_q7QPIGY?si=kAXWWSnF-DXOPPU1
+[![Watch PowerMenu Demo](https://img.youtube.com/vi/zWv_q7QPIGY/0.jpg)](https://youtu.be/zWv_q7QPIGY)
 
 **Main Menu**  
 ![Main Menu](https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Main.png?raw=true)  
@@ -197,7 +197,7 @@ Having issues? Here are some quick fixes:
 
 - **Windows-Only (For Now):** This tool is currently built for Windows systems only. Support for Linux/macOS may come later.
 
-- **Antivirus False Positives:** Some antivirus software might flag the executable due to the use of certain system-level commands. Rest assured, the tool is clean.
+- **Antivirus False Positives:** Some antivirus programs may flag the executable due to its use of system-level commands. Rest assured, the tool is clean.
 
 
 - **Display Scaling Issues:** On some systems with custom DPI settings, UI elements may not appear properly scaled. A fix is planned for a future version.
@@ -267,7 +267,43 @@ The current **latest versions** are:
 - **🌐 Multi-language Support**  
   Interface translation for a global audience!  
   Switch between languages with ease — English, Arabic, and more to come!  
-  Get ready for **multilingual** support
+  Get ready for **multilingual** support.
+
+---
+
+## 🔧 Build from Source
+
+To build **PowerMenu** from source, follow these steps:
+
+1. **Prerequisites:**
+   - Install [AutoIt v3](https://www.autoitscript.com/site/autoit/downloads/) (version 3.3.14.5 or later recommended).
+   - Optional but recommended: Install [SciTE4AutoIt3](https://www.autoitscript.com/site/autoit-tools/scite4autoit3/) for a powerful AutoIt IDE and editor.
+   - Ensure you have a Windows development environment (Windows 10/11 recommended).
+
+2. **Clone the Repository:**
+    
+        git clone https://github.com/YourUsername/PowerMenu.git
+        cd PowerMenu
+
+3. **Compile the Script:**
+   - Open `PowerMenu.au3` in SciTE4AutoIt3 or your preferred editor.
+   - Press **F7** (Compile Script) to build the executable.
+   - Alternatively, you can use the command line AutoIt compiler:
+    
+        "C:\Program Files (x86)\AutoIt3\Aut2Exe\Aut2exe.exe" /in PowerMenu.au3 /out PowerMenu.exe
+
+   - The compiled executable `PowerMenu.exe` will be generated in the project directory.
+
+4. **Verify the Build:**
+   - Run `PowerMenu.exe` and ensure all features (shutdown, reboot, Safe Mode options) function as expected.
+
+5. **Customization:**
+   - Modify `PowerMenu.au3` source code to tweak features or add custom options.
+   - Recompile after changes to apply updates.
+
+6. **Distributing your Build:**
+   - Include any necessary assets or configuration files along with the executable.
+   - Make sure to comply with the original license and give proper credit.
 
 ---
 
@@ -311,6 +347,19 @@ Developed and maintained by:
 
 **HazemTech365**  
 🔗 [GitHub Profile](https://github.com/HazemTech365)
+
+---
+
+## 🛡️ Security Notice
+
+This tool is open source and does **not** include telemetry, tracking, or ads.
+
+However, always exercise caution when downloading binaries from third-party sites. It is strongly recommended to:
+- Download only from the official GitHub repository or trusted mirrors.
+- Verify the SHA256 hash of the release files (if provided).
+- Avoid running scripts with elevated privileges unless you trust the source.
+
+> 📣 If you find any suspicious behavior, please [open an issue](#) immediately or contact the developer.
 
 ---
 
