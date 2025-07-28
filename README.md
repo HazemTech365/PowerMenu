@@ -366,7 +366,7 @@ Download on GitHub and stay powered! 🚀
 
 ## 🏁 Final Words
 
-<img src="https://img.shields.io/badge/🏁 Final Words-Tech%20Heart%20%26%20Power-orange?style=for-the-badge" alt="Final Words Badge">
+<img src="https://img.shields.io/badge/Final Words-Tech%20Heart%20%26%20Power-orange?style=flat" alt="Final Words Badge">
 
 PowerMenu started as a small idea, but it's made with love, care, and real tech spirit.  
 Whether you're a power user or someone who just wants control — this tool is for you.
