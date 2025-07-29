@@ -1,8 +1,5 @@
 # PowerMenu
 
-<!-- 🔥 Ultimate Placeholder Video -->  <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=1"   
-title="Definitely a Totally Serious Placeholder Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  
-</iframe>
 ### Your all-in-one reboot, shutdown, and Safe Mode launcher for Windows ⚡
 
 <p align="left">
