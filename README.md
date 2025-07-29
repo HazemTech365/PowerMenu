@@ -1,6 +1,6 @@
 # PowerMenu
 
-### Your all-in-one reboot, shutdown, and Safe Mode launcher for Windows ⚡
+### A tiny but powerful menu to quickly reboot, shut down, or launch Safe Mode — lightning-fast access to essential Windows controls. ⚡
 
 <p align="left">
   <img src="https://img.shields.io/badge/Platform-Windows-007ec6?logo=windows&logoColor=white&style=flat">
