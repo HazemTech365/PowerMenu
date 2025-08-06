@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HazemTech365/PowerMenu/4c574d093cea6d4e1f6b031536e30a7586f2e887/longpowermenu.png" alt="PowerMenu Screenshot" width="200" />
+</p>
+
 # PowerMenu
 
 ### A tiny but powerful menu to quickly reboot, shut down, or launch Safe Mode — lightning-fast access to essential Windows controls. ⚡
