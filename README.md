@@ -1,4 +1,7 @@
-# PowerMenu
+<h1>
+  <img src="https://raw.githubusercontent.com/HazemTech365/PowerMenu/refs/heads/main/powermenu.png" alt="PowerMenu Icon" width="32" height="32" />
+  PowerMenu
+</h1>
 
 ### A tiny but powerful menu to quickly reboot, shut down, or launch Safe Mode — lightning-fast access to essential Windows controls. ⚡
 
