@@ -1,18 +1,21 @@
-<img src="https://github.com/HazemTech365/PowerMenu/blob/7f20d860ded1f8420b3fe1378af7dee4d2d2879a/powermenu.png?raw=true" width="99" alt="Icon">
+<img src="https://github.com/HazemTech365/PowerMenu/blob/7f20d860ded1f8420b3fe1378af7dee4d2d2879a/powermenu.png?raw=true" width="70" alt="Icon">
 
 # PowerMenu
 
 ### A tiny but powerful menu to quickly reboot, shut down, or launch Safe Mode — lightning-fast access to essential Windows controls. ⚡
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Platform-Windows-007ec6?logo=windows&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/Language-AutoIt-007ec6?style=flat">
-  <img src="https://img.shields.io/github/license/HazemTech365/PowerMenu?label=License&color=007ec6&style=flat">
-  <img src="https://img.shields.io/github/downloads/HazemTech365/PowerMenu/total?label=Downloads&logo=github&color=007ec6&style=flat">
-  <img src="https://img.shields.io/github/repo-size/HazemTech365/PowerMenu?label=Repo%20Size&color=007ec6&style=flat">
-<img src="https://img.shields.io/badge/Author-HazemTech365-blueviolet" alt="Author: HazemTech365">
-  <img src="https://img.shields.io/badge/Coming%20Soon-Features%20Planned-orange?style=flat&logo=github">
-<img src="https://img.shields.io/github/issues-pr/HazemTech365/PowerMenu?label=Open%20PRs&color=blue">
+<p align="left">  
+  <img src="https://img.shields.io/badge/Platform-Windows-007ec6?logo=windows&logoColor=white&style=flat">  
+  <img src="https://img.shields.io/badge/Language-AutoIt-007ec6?style=flat">  
+  <img src="https://img.shields.io/github/license/HazemTech365/PowerMenu?label=License&color=007ec6&style=flat">  
+  <img src="https://img.shields.io/github/downloads/HazemTech365/PowerMenu/total?label=Downloads&logo=github&color=007ec6&style=flat">  
+  <img src="https://img.shields.io/github/repo-size/HazemTech365/PowerMenu?label=Repo%20Size&color=007ec6&style=flat">  
+  <img src="https://img.shields.io/badge/Author-HazemTech365-blueviolet" alt="Author: HazemTech365">  
+  <img src="https://img.shields.io/badge/Coming%20Soon-Features%20Planned-orange?style=flat&logo=github">  
+  <img src="https://img.shields.io/github/issues-pr/HazemTech365/PowerMenu?label=Open%20PRs&color=blue">  
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D6?logo=windows11&logoColor=white&style=flat&labelColor=0078D6">  
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows%2010-0078D6?logo=windows11&logoColor=white&style=flat&labelColor=0078D6">  
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows%208%2F8.1-yellow?logo=windows11&logoColor=white">  
 </p>
 
 PowerMenu is a modern, lightweight utility that puts **all essential power controls** at your fingertips. Built for Windows, it delivers powerful options in one clean interface — whether you're shutting down, restarting, hibernating, or jumping into Safe Mode.  
