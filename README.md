@@ -1,8 +1,10 @@
+<img src="https://github.com/HazemTech365/PowerMenu/blob/7f20d860ded1f8420b3fe1378af7dee4d2d2879a/powermenu.png?raw=true" width="99" alt="Icon">
+
 # PowerMenu
 
 ### A tiny but powerful menu to quickly reboot, shut down, or launch Safe Mode — lightning-fast access to essential Windows controls. ⚡
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Platform-Windows-007ec6?logo=windows&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/Language-AutoIt-007ec6?style=flat">
   <img src="https://img.shields.io/github/license/HazemTech365/PowerMenu?label=License&color=007ec6&style=flat">
@@ -82,13 +84,11 @@ PowerMenu is a modern, lightweight utility that puts **all essential power contr
 
 ![Screenshot Badge](https://img.shields.io/badge/UI-Simple_&_Clean-007ec6?style=flat)
 
-**Video:**
+**Video**  
 [![Watch PowerMenu Demo](https://img.youtube.com/vi/zWv_q7QPIGY/0.jpg)](https://youtu.be/zWv_q7QPIGY)
 
-**Icon**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HazemTech365/PowerMenu/4c574d093cea6d4e1f6b031536e30a7586f2e887/longpowermenu.png" alt="PowerMenu Screenshot" width="200" />
-</p>
+**Icon**  
+<img src="https://github.com/HazemTech365/PowerMenu/blob/7f20d860ded1f8420b3fe1378af7dee4d2d2879a/powermenu.png?raw=true" width="150" alt="Icon">
 
 **Main Menu**  
 ![Main Menu](https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Main.png?raw=true)  
@@ -216,7 +216,9 @@ This list will expand as we discover more edge cases or system-specific quirks.
 
 This tool is open source and does **not** include telemetry, tracking, or ads.
 
-VirusTotal link: 
+SHA-256: `c9c3915c3df172c680e482c406bfcb90f4361a0995dec51dafcf78a4fb4fc584`
+
+VirusTotal link: https://www.virustotal.com/gui/file/c9c3915c3df172c680e482c406bfcb90f4361a0995dec51dafcf78a4fb4fc584/detection
 
 However, always exercise caution when downloading binaries from third-party sites. It is strongly recommended to:
 - Download only from the official GitHub repository or trusted mirrors.
