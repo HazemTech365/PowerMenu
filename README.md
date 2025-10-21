@@ -55,6 +55,9 @@
 
 ## 🖼 Screenshots
 
+**Icon**  
+<img src="https://github.com/HazemTech365/PowerMenu/blob/7f20d860ded1f8420b3fe1378af7dee4d2d2879a/powermenu.png?raw=true" width="150" alt="Icon">
+
 **Main Menu**  
 ![Main Menu](https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Main.png?raw=true)  
 
@@ -158,20 +161,24 @@ Some antivirus programs flag AutoIt scripts as suspicious due to system commands
 
 ## ❓ FAQ
 
-**Q: Why admin rights?**  
-> Changing Safe Mode and advanced reboot requires system-level permissions.
-
-**Q: Can I use Windows 7?**  
-> Not officially supported; some features may not work.
-
-**Q: Installation required?**  
-> No, it’s portable — just run the `.exe`.
+<details>
+<summary>Why admin rights?</summary>
+Changing Safe Mode and advanced reboot requires system-level permissions.
+</details>
 
 <details>
-<summary>Future UI Customization FAQ</summary>
+<summary>Can I use Windows 7?</summary>
+Not officially supported; some features may not work.
+</details>
 
+<details>
+<summary>Installation required?</summary>
+No, it’s portable — just run the `.exe`.
+</details>
+
+<details>
+<summary>Future UI Customization</summary>
 UI customization may be added in future releases. Currently the interface is fixed for simplicity.
-
 </details>
 
 ---
@@ -211,7 +218,7 @@ git clone https://github.com/HazemTech365/PowerMenu.git
 
 ## 🪪 License
 
-``` 
+```
 MIT License
 
 Copyright (c) 2025 Hazem Mohamed 
@@ -233,6 +240,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
 
 ---
 
