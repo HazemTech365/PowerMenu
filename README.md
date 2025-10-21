@@ -1,5 +1,3 @@
-
-
 <img src="https://github.com/HazemTech365/PowerMenu/blob/7f20d860ded1f8420b3fe1378af7dee4d2d2879a/powermenu.png?raw=true" width="80" alt="PowerMenu Icon">
 
 # PowerMenu
@@ -11,8 +9,6 @@
   <img src="https://img.shields.io/badge/Language-AutoIt-007ec6?style=flat">  
   <img src="https://img.shields.io/github/license/HazemTech365/PowerMenu?label=License&color=007ec6&style=flat">  
   <img src="https://img.shields.io/github/downloads/HazemTech365/PowerMenu/total?label=Downloads&logo=github&color=007ec6&style=flat">  
-  <img src="https://img.shields.io/github/repo-size/HazemTech365/PowerMenu?label=Repo%20Size&color=007ec6&style=flat">  
-  <img src="https://img.shields.io/github/issues-pr/HazemTech365/PowerMenu?label=Open%20PRs&color=blue">  
 </p>
 
 ---
@@ -20,6 +16,16 @@
 ## 🎬 Demo
 
 [![Watch PowerMenu Demo](https://img.youtube.com/vi/zWv_q7QPIGY/0.jpg)](https://youtu.be/zWv_q7QPIGY)
+
+---
+
+## 🏁 Quick Start
+
+1. Download `PowerMenu_x64.exe` (or `PowerMenu_x86.exe` for 32-bit)  
+2. Right-click → **Run as Administrator**  
+3. Enjoy full access to all power options instantly ⚡  
+
+> Tip: Pin PowerMenu to Taskbar or Start Menu for instant access.
 
 ---
 
@@ -32,22 +38,18 @@
 - ⚙️ Reboot to UEFI Firmware Settings *(UEFI only)*  
 - 🛠 Reboot to Advanced Recovery  
 - 🧰 Safe Mode Tools:  
-  - Minimal (Safe Mode)  
-  - Networking (Safe Mode with Networking)  
-  - Command Prompt (Safe Mode with Command Prompt)  
-  - Exit Safe Mode *(auto-detected if already in Safe Mode)*  
 
-> ⚠️ Admin rights are required for Safe Mode and advanced options.
+<details>
+<summary>Safe Mode Options</summary>
 
----
+- Minimal (Safe Mode)  
+- Networking (Safe Mode with Networking)  
+- Command Prompt (Safe Mode with Command Prompt)  
+- Exit Safe Mode *(auto-detected if already in Safe Mode)*  
 
-## 🏁 Quick Start
+> Admin rights required for Safe Mode and advanced options.
 
-1. Download `PowerMenu_x64.exe` (or `PowerMenu_x86.exe` for 32-bit)  
-2. Right-click → **Run as Administrator**  
-3. Boom — all power options instantly at your fingertips ⚡  
-
-> Tip: Pin PowerMenu to the Taskbar or Start Menu for instant access.
+</details>
 
 ---
 
@@ -59,38 +61,36 @@
 **Confirmation Prompt**  
 ![Confirmation Prompt](https://github.com/HazemTech365/PowerMenu/blob/2bfb9c3ac9424164a22f6148be65656d942374c6/Confirmation.png?raw=true)
 
-**Icon**  
-<img src="https://github.com/HazemTech365/PowerMenu/blob/7f20d860ded1f8420b3fe1378af7dee4d2d2879a/powermenu.png?raw=true" width="120" alt="Icon">
-
----
-
-## ⌨️ Keyboard Shortcuts
-
-| Shortcut            | Action                             |
-|--------------------|-------------------------------------|
-| `Ctrl + Shift + C`  | Toggle confirmation prompts on/off |
-
 ---
 
 ## 📟 Command Table
 
-| Button                   | Command                                                    | Notes |
-|--------------------------|-------------------------------------------------------------|-------|
-| Shutdown                 | `shutdown /s /t 0`                                          | — |
-| Restart                  | `shutdown /r /t 0`                                          | — |
-| Sleep                    | `rundll32.exe powrprof.dll,SetSuspendState 0,1,0`          | — |
-| Lock                     | `rundll32.exe user32.dll,LockWorkStation`                  | — |
-| Log Off                  | `shutdown /l`                                               | — |
-| Hibernate                | `shutdown /h`                                               | — |
-| Force Shutdown           | `shutdown /s /f /t 0`                                       | — |
-| Force Restart            | `shutdown /r /f /t 0`                                       | — |
-| Restart Explorer         | `taskkill /f /im explorer.exe && start explorer`            | — |
-| UEFI Firmware Settings   | `shutdown /r /fw /t 0`                                      | UEFI only |
-| Advanced Recovery        | `shutdown /r /o /t 0`                                       | Admin required |
-| Safe Mode: Minimal       | `bcdedit /set {current} safeboot minimal`                   | Admin required |
-| Safe Mode: Networking    | `bcdedit /set {current} safeboot network`                   | Admin required |
-| Safe Mode: Command Prompt| `bcdedit /set {current} safebootalternateshell yes`         | Admin required |
-| Exit Safe Mode           | `bcdedit /deletevalue {current} safeboot`                   | Admin required |
+| Button                   | Command                                                    |
+|--------------------------|-------------------------------------------------------------|
+| Shutdown                 | `shutdown /s /t 0`                                          |
+| Restart                  | `shutdown /r /t 0`                                          |
+| Sleep                    | `rundll32.exe powrprof.dll,SetSuspendState 0,1,0`          |
+| Lock                     | `rundll32.exe user32.dll,LockWorkStation`                  |
+| Log Off                  | `shutdown /l`                                               |
+| Hibernate                | `shutdown /h`                                               |
+| Force Shutdown           | `shutdown /s /f /t 0`                                       |
+| Force Restart            | `shutdown /r /f /t 0`                                       |
+| Restart Explorer         | `taskkill /f /im explorer.exe && start explorer`            |
+| UEFI Firmware Settings   | `shutdown /r /fw /t 0`                                      |
+| Advanced Recovery        | `shutdown /r /o /t 0`                                       |
+| Safe Mode: Minimal       | `bcdedit /set {current} safeboot minimal`                   |
+| Safe Mode: Networking    | `bcdedit /set {current} safeboot network`                   |
+| Safe Mode: Command Prompt| `bcdedit /set {current} safebootalternateshell yes`         |
+| Exit Safe Mode           | `bcdedit /deletevalue {current} safeboot`                   |
+
+<details>
+<summary>Command Notes / Examples</summary>
+
+- `Force Shutdown` forcibly closes apps without waiting for prompts  
+- `Restart Explorer` can fix taskbar or desktop issues  
+- `Exit Safe Mode` automatically removes safeboot if the system is in Safe Mode
+
+</details>
 
 ---
 
@@ -112,7 +112,7 @@ Or clone the repository manually:
 git clone https://github.com/HazemTech365/PowerMenu.git
 ```
 
-> ✅ No installation required — just double-click the `.exe` and run as Admin.
+> ✅ No installation required — just run the `.exe` as Admin.
 
 ---
 
@@ -120,11 +120,22 @@ git clone https://github.com/HazemTech365/PowerMenu.git
 
 - **Safe Mode not working?** Run as Administrator.  
 - **Shutdown/Restart delayed?** Disable Fast Startup:  
-  `Control Panel → Power Options → Choose what the power buttons do → Change settings → Uncheck "Turn on fast startup"`  
+<details>
+<summary>Fast Startup Disable Steps</summary>
+
+`Control Panel → Power Options → Choose what the power buttons do → Change settings → Uncheck "Turn on fast startup"`
+
+</details>
+
 - **Stuck in Safe Mode?** Open Command Prompt (Admin) and run:  
+<details>
+<summary>Exit Safe Mode Command</summary>
+
 ```bash
 bcdedit /deletevalue {current} safeboot
 ```
+
+</details>
 
 ---
 
@@ -136,66 +147,71 @@ bcdedit /deletevalue {current} safeboot
 - Possible antivirus false positives (AutoIt behavior)  
 - UI scaling issues on high DPI displays  
 
----
+<details>
+<summary>Antivirus Notes</summary>
 
-## 🛡️ Security Notice
+Some antivirus programs flag AutoIt scripts as suspicious due to system commands. The tool is clean. You can verify via SHA-256 or build from source.
 
-- Open-source, no telemetry, no ads  
-- SHA-256: `c9c3915c3df172c680e482c406bfcb90f4361a0995dec51dafcf78a4fb4fc584`  
-- [VirusTotal scan](https://www.virustotal.com/gui/file/c9c3915c3df172c680e482c406bfcb90f4361a0995dec51dafcf78a4fb4fc584/detection)  
+</details>
 
 ---
 
 ## ❓ FAQ
 
-<details>
-<summary>Q: Why do I need admin rights?</summary>
-<p>Changing Safe Mode and advanced reboot settings requires system-level permissions.</p>
-</details>
+**Q: Why admin rights?**  
+> Changing Safe Mode and advanced reboot requires system-level permissions.
+
+**Q: Can I use Windows 7?**  
+> Not officially supported; some features may not work.
+
+**Q: Installation required?**  
+> No, it’s portable — just run the `.exe`.
 
 <details>
-<summary>Q: Can I use this on Windows 7?</summary>
-<p>Not officially supported. Some features may be missing.</p>
-</details>
+<summary>Future UI Customization FAQ</summary>
 
-<details>
-<summary>Q: Can I customize the UI?</summary>
-<p>Not yet. UI customization may come in future releases.</p>
-</details>
+UI customization may be added in future releases. Currently the interface is fixed for simplicity.
 
-<details>
-<summary>Q: Is installation required?</summary>
-<p>Nope! Portable — just run the `.exe`.</p>
 </details>
 
 ---
 
 ## 👨‍💻 Coming Soon
 
-- 🎛️ Options Menu: toggle confirmation prompts  
-- 🎭 Themes (Classic, Dark, more)  
-- 💻 CLI Mode toggle  
-- 🛠 Auto-Updater (admin mode auto-update)  
-- 🌐 Multi-language support (English, Arabic, more)  
+<details>
+<summary>Feature Details</summary>
+
+- Options Menu: toggle confirmation prompts  
+- Themes (Classic, Dark, more)  
+- CLI Mode toggle  
+- Auto-Updater (admin mode auto-update)  
+- Multi-language support  
+
+</details>
 
 ---
 
 ## 🔧 Build from Source
 
+<details>
+<summary>Steps</summary>
+
 1. Install [AutoIt v3](https://www.autoitscript.com/site/autoit/downloads/) (3.3.14.5+)  
 2. Optional: [SciTE4AutoIt3](https://www.autoitscript.com/site/autoit-tools/scite4autoit3/)  
 3. Clone repo:  
-````bash
+```bash
 git clone https://github.com/HazemTech365/PowerMenu.git
-````  
+```
 4. Open `PowerMenu.au3` → F7 to compile  
 5. Run `PowerMenu.exe`  
+
+</details>
 
 ---
 
 ## 🪪 License
 
-``` LICENSE
+``` 
 MIT License
 
 Copyright (c) 2025 Hazem Mohamed 
@@ -217,15 +233,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
-
----
-
-## 🌟 Support This Project
-
-- ⭐ Star it  
-- 🍴 Fork it  
-- 🗣 Share it  
 
 ---
 
