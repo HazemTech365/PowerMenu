@@ -2,7 +2,7 @@
 
 <img src="https://github.com/HazemTech365/PowerMenu/blob/7f20d860ded1f8420b3fe1378af7dee4d2d2879a/powermenu.png?raw=true" width="80" alt="PowerMenu Icon">
 
-# ⚡ PowerMenu
+# PowerMenu
 
 **Take full control of Windows shutdown, restart, Safe Mode, and advanced recovery — all in one lightning-fast menu.**  
 
