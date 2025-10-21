@@ -18,6 +18,7 @@
 [![Watch PowerMenu Demo](https://img.youtube.com/vi/zWv_q7QPIGY/0.jpg)](https://youtu.be/zWv_q7QPIGY)
 
 Click on the image above to open the video.
+
 ---
 
 ## 🏁 Quick Start
