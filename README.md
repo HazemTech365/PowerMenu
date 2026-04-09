@@ -2,13 +2,13 @@
 
 # PowerMenu (DISCONTINUED)
 
-**Take full control of Windows shutdown, restart, Safe Mode, and advanced recovery — all in one lightning-fast menu.**  
+**A portable Windows power menu with shutdown, restart, Safe Mode, and advanced recovery options — all in one place.**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Platform-Windows-007ec6?logo=windows&logoColor=white&style=flat">  
-  <img src="https://img.shields.io/badge/Language-AutoIt-007ec6?style=flat">  
-  <img src="https://img.shields.io/github/license/HazemTech365/PowerMenu?label=License&color=007ec6&style=flat">  
-  <img src="https://img.shields.io/github/downloads/HazemTech365/PowerMenu/total?label=Downloads&logo=github&color=007ec6&style=flat">  
+  <img src="https://img.shields.io/badge/Platform-Windows-007ec6?logo=windows&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Language-AutoIt-007ec6?style=flat">
+  <img src="https://img.shields.io/github/license/HazemTech365/PowerMenu?label=License&color=007ec6&style=flat">
+  <img src="https://img.shields.io/github/downloads/HazemTech365/PowerMenu/total?label=Downloads&logo=github&color=007ec6&style=flat">
 </p>
 
 ---
@@ -17,37 +17,38 @@
 
 [![Watch PowerMenu Demo](https://img.youtube.com/vi/zWv_q7QPIGY/0.jpg)](https://youtu.be/zWv_q7QPIGY)
 
-Click on the image above to open the video.
+Click the thumbnail to watch the demo.
 
 ---
 
-## 🏁 Quick Start
+## Quick Start
 
-1. Download `PowerMenu_x64.exe` (or `PowerMenu_x86.exe` for 32-bit)  
-2. Right-click → **Run as Administrator**  
-3. Enjoy full access to all power options instantly ⚡  
+1. Download `PowerMenu_x64.exe` (or `PowerMenu_x86.exe` for 32-bit)
+2. Right-click → **Run as Administrator**
+3. All power options are immediately available
 
-> Tip: Pin PowerMenu to Taskbar or Start Menu for instant access.
+> Tip: Pin PowerMenu to the Taskbar or Start Menu for quicker access.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔌 Shutdown, Restart, Sleep, Hibernate, Log Off  
-- 🔐 Lock Screen  
-- 🛑 Force Shutdown & Force Restart  
-- 🔁 Restart Windows Explorer  
-- ⚙️ Reboot to UEFI Firmware Settings *(UEFI only)*  
-- 🛠 Reboot to Advanced Recovery  
-- 🧰 Safe Mode Tools:  
+- Shutdown, Restart, Sleep, Hibernate, Log Off
+- Lock Screen
+- Force Shutdown & Force Restart
+- Restart Windows Explorer
+- Reboot to UEFI Firmware Settings *(UEFI systems only)*
+- Reboot to Advanced Recovery
+
+**Safe Mode options:**
 
 <details>
-<summary>Safe Mode Options</summary>
+<summary>Expand Safe Mode options</summary>
 
-- Minimal (Safe Mode)  
-- Networking (Safe Mode with Networking)  
-- Command Prompt (Safe Mode with Command Prompt)  
-- Exit Safe Mode *(auto-detected if already in Safe Mode)*  
+- Minimal (Safe Mode)
+- Networking (Safe Mode with Networking)
+- Command Prompt (Safe Mode with Command Prompt)
+- Exit Safe Mode *(auto-detected if already in Safe Mode)*
 
 > Admin rights required for Safe Mode and advanced options.
 
@@ -55,45 +56,45 @@ Click on the image above to open the video.
 
 ---
 
-## 🖼 Screenshots
+## 🖼️ Screenshots
 
-**Icon**  
+**Icon**
 <img src="https://github.com/HazemTech365/PowerMenu/blob/7f20d860ded1f8420b3fe1378af7dee4d2d2879a/powermenu.png?raw=true" width="150" alt="Icon">
 
-**Main Menu**  
-![Main Menu](https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Main.png?raw=true)  
+**Main Menu**
+![Main Menu](https://github.com/HazemTech365/PowerMenu/blob/fb6292d48e802c580f1150823c89fde0957a5182/Main.png?raw=true)
 
-**Confirmation Prompt**  
+**Confirmation Prompt**
 ![Confirmation Prompt](https://github.com/HazemTech365/PowerMenu/blob/2bfb9c3ac9424164a22f6148be65656d942374c6/Confirmation.png?raw=true)
 
 ---
 
-## 📟 Command Table
+## Command Reference
 
-| Button                   | Command                                                    |
-|--------------------------|-------------------------------------------------------------|
-| Shutdown                 | `shutdown /s /t 0`                                          |
-| Restart                  | `shutdown /r /t 0`                                          |
-| Sleep                    | `rundll32.exe powrprof.dll,SetSuspendState 0,1,0`          |
-| Lock                     | `rundll32.exe user32.dll,LockWorkStation`                  |
-| Log Off                  | `shutdown /l`                                               |
-| Hibernate                | `shutdown /h`                                               |
-| Force Shutdown           | `shutdown /s /f /t 0`                                       |
-| Force Restart            | `shutdown /r /f /t 0`                                       |
-| Restart Explorer         | `taskkill /f /im explorer.exe && start explorer`            |
-| UEFI Firmware Settings   | `shutdown /r /fw /t 0`                                      |
-| Advanced Recovery        | `shutdown /r /o /t 0`                                       |
-| Safe Mode: Minimal       | `bcdedit /set {current} safeboot minimal`                   |
-| Safe Mode: Networking    | `bcdedit /set {current} safeboot network`                   |
-| Safe Mode: Command Prompt| `bcdedit /set {current} safebootalternateshell yes`         |
-| Exit Safe Mode           | `bcdedit /deletevalue {current} safeboot`                   |
+| Action | Command |
+|--------|---------|
+| Shutdown | `shutdown /s /t 0` |
+| Restart | `shutdown /r /t 0` |
+| Sleep | `rundll32.exe powrprof.dll,SetSuspendState 0,1,0` |
+| Lock | `rundll32.exe user32.dll,LockWorkStation` |
+| Log Off | `shutdown /l` |
+| Hibernate | `shutdown /h` |
+| Force Shutdown | `shutdown /s /f /t 0` |
+| Force Restart | `shutdown /r /f /t 0` |
+| Restart Explorer | `taskkill /f /im explorer.exe && start explorer` |
+| UEFI Firmware Settings | `shutdown /r /fw /t 0` |
+| Advanced Recovery | `shutdown /r /o /t 0` |
+| Safe Mode: Minimal | `bcdedit /set {current} safeboot minimal` |
+| Safe Mode: Networking | `bcdedit /set {current} safeboot network` |
+| Safe Mode: Command Prompt | `bcdedit /set {current} safebootalternateshell yes` |
+| Exit Safe Mode | `bcdedit /deletevalue {current} safeboot` |
 
 <details>
-<summary>Command Notes / Examples</summary>
+<summary>Notes</summary>
 
-- `Force Shutdown` forcibly closes apps without waiting for prompts  
-- `Restart Explorer` can fix taskbar or desktop issues  
-- `Exit Safe Mode` automatically removes safeboot if the system is in Safe Mode
+- Force Shutdown closes all apps immediately without waiting for save prompts
+- Restart Explorer is useful for fixing taskbar or desktop glitches
+- Exit Safe Mode automatically removes the safeboot flag if the system is currently in Safe Mode
 
 </details>
 
@@ -101,9 +102,9 @@ Click on the image above to open the video.
 
 ## 💻 System Requirements
 
-- Windows 11, 10, or 8  
-- UEFI recommended for firmware options  
-- Admin rights for Safe Mode and advanced reboot options  
+- Windows 8, 10, or 11
+- UEFI firmware recommended for firmware-related options
+- Administrator rights required for Safe Mode and advanced reboot options
 
 ---
 
@@ -111,30 +112,32 @@ Click on the image above to open the video.
 
 [![Download PowerMenu](https://img.shields.io/badge/GitHub-Download_PowerMenu-blue?logo=github)](https://github.com/HazemTech365/PowerMenu/releases)
 
-Or clone the repository manually:
+Or clone the repo:
 
 ```bash
 git clone https://github.com/HazemTech365/PowerMenu.git
 ```
 
-> ✅ No installation required — just run the `.exe` as Admin.
+> No installation needed — just run the `.exe` as Administrator.
 
 ---
 
-## 🛠 Troubleshooting
+## Troubleshooting
 
-- **Safe Mode not working?** Run as Administrator.  
-- **Shutdown/Restart delayed?** Disable Fast Startup:  
+- **Safe Mode not working?** Make sure you're running as Administrator.
+- **Shutdown or restart seems delayed?** Fast Startup may be interfering.
+
 <details>
-<summary>Fast Startup Disable Steps</summary>
+<summary>How to disable Fast Startup</summary>
 
-`Control Panel → Power Options → Choose what the power buttons do → Change settings → Uncheck "Turn on fast startup"`
+`Control Panel → Power Options → Choose what the power buttons do → Change settings that are currently unavailable → Uncheck "Turn on fast startup"`
 
 </details>
 
-- **Stuck in Safe Mode?** Open Command Prompt (Admin) and run:  
+- **Stuck in Safe Mode?** Run Command Prompt as Administrator and use:
+
 <details>
-<summary>Exit Safe Mode Command</summary>
+<summary>Exit Safe Mode manually</summary>
 
 ```bash
 bcdedit /deletevalue {current} safeboot
@@ -146,84 +149,65 @@ bcdedit /deletevalue {current} safeboot
 
 ## ⚠️ Known Issues
 
-- UEFI required for full features  
-- Admin rights needed  
-- Windows-only  
-- Possible antivirus false positives (AutoIt behavior)  
-- UI scaling issues on high DPI displays  
+- Full feature set requires UEFI firmware
+- Administrator rights are mandatory for advanced options
+- Windows only — no Linux or macOS support
+- Some antivirus software may flag the executable due to AutoIt's use of system commands
 
 <details>
-<summary>Antivirus Notes</summary>
+<summary>About antivirus false positives</summary>
 
-Some antivirus programs flag AutoIt scripts as suspicious due to system commands. The tool is clean. You can verify via SHA-256 or build from source.
+AutoIt-compiled executables are sometimes flagged as suspicious because they interact with system-level commands. PowerMenu is clean. You can verify the file via SHA-256 or build from source yourself.
 
 </details>
 
 ---
 
-## ❓ FAQ
+## FAQ
 
-<details>
-<summary>Why admin rights?</summary>
-Changing Safe Mode and advanced reboot requires system-level permissions.
-</details>
+**Why does it need admin rights?**
+Safe Mode changes and advanced reboot options require system-level permissions that only an administrator can grant.
 
-<details>
-<summary>Can I use Windows 7?</summary>
-Not officially supported; some features may not work.
-</details>
+**Does it work on Windows 7?**
+Windows 7 is not officially supported. Some features may not work correctly.
 
-<details>
-<summary>Installation required?</summary>
-No, it’s portable — just run the `.exe`.
-</details>
+**Does it need to be installed?**
+No — it's fully portable. Just run the `.exe`.
 
-<details>
-<summary>Future UI Customization</summary>
-UI customization may be added in future releases. Currently the interface is fixed for simplicity.
-</details>
+**Will there be UI customization?**
+UI customization was planned for a future release, but the project has since been discontinued.
 
 ---
 
-## 👨‍💻 Coming Soon
+## 👨‍💻 Coming Soon *(planned before discontinuation)*
 
-<details>
-<summary>Feature Details</summary>
-
-- Options Menu: toggle confirmation prompts  
-- Themes (Classic, Dark, more)  
-- CLI Mode toggle  
-- Auto-Updater (admin mode auto-update)  
-- Multi-language support  
-
-</details>
+- Options menu with toggleable confirmation prompts
+- Themes (Classic, Dark, and more)
+- CLI mode toggle
+- Auto-updater
+- Multi-language support
 
 ---
 
 ## 🔧 Build from Source
 
-<details>
-<summary>Steps</summary>
-
-1. Install [AutoIt v3](https://www.autoitscript.com/site/autoit/downloads/) (3.3.14.5+)  
-2. Optional: [SciTE4AutoIt3](https://www.autoitscript.com/site/autoit-tools/scite4autoit3/)  
-3. Clone repo:  
+1. Install [AutoIt v3](https://www.autoitscript.com/site/autoit/downloads/) (v3.3.14.5 or newer)
+2. Optionally install [SciTE4AutoIt3](https://www.autoitscript.com/site/autoit-tools/scite4autoit3/) as an editor
+3. Clone the repo:
 ```bash
 git clone https://github.com/HazemTech365/PowerMenu.git
 ```
-4. Open `PowerMenu.au3` → F7 to compile  
-5. Run `PowerMenu.exe`  
-
-</details>
+4. Open `PowerMenu.au3` and press F7 to compile
+5. Run the output `PowerMenu.exe`
 
 ---
 
-## 🪪 License
+## License
 
 ```
 MIT License
 
-Copyright (c) 2025 Hazem Mohamed 
+Copyright (c) 2025 Hazem Mohamed
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -246,10 +230,6 @@ SOFTWARE.
 
 ---
 
-## ⚡ TL;DR
+## TL;DR
 
-PowerMenu = **shutdown, restart, sleep, hibernate, Safe Mode, advanced reboot** — all in a tiny portable app.  
-Admin rights required for Safe Mode & advanced features.  
-Windows 8, 10, 11 supported.  
-
-> 🔥 Stay powered. Stay in control. PowerMenu. 🔥
+PowerMenu is a portable Windows app covering shutdown, restart, sleep, hibernate, Safe Mode, and advanced reboot — no installation required. Admin rights needed for Safe Mode and advanced features. Supports Windows 8, 10, and 11.
